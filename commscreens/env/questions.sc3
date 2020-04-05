@@ -1,0 +1,19 @@
+< COMMUNICATION_SCREEN
+< at_stake money >
+< minimum -5000 >
+< maximum 0 >
+< nb_questions 30 >
+< allowed_neutral 1 >
+< extra_pictures 0 >
+
+
+< question_list
+< first 1 >
+< last 30 >
+>
+
+
+< question_end
+>
+
+>

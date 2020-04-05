@@ -1,0 +1,14 @@
+location_1 = Bagley Marsh
+location_2 = Bwlchyddar
+location_3 = Bomere Heath
+location_4 = Nantyr
+location_5 = Ellesmere
+location_6 = Ruabon Mountain
+location_7 = St Martins
+comments_1 = Simple first course. Enjoy the\nscenery
+comments_2 = One jump, One bridge, some banks\nand a long straight.
+comments_3 = Winding thin mainly flat course\nwith few hills
+comments_4 = Many tunnels and several wide\nbanked straights.
+comments_5 = Short fast course with choice of\nroute and level crossing
+comments_6 = Long course with a difficult\njump on a bend
+comments_7 = Long straights and tight curves,\nwith opening gates to save time

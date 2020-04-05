@@ -1,0 +1,177 @@
+cs_spon_intro_1 = Votre généreux sponsor vous a téléphoné pour discuter\nd'éventuels fonds à vous attribuer par sa\nsociété. Que pouvez vous récupérer ?
+
+cs_spon_intro_2 = Ca doit être Noël. Votre sponsor vous a\nconvié à un entretien pour peut-être\nvous arroser un peu....
+
+cs_spon_intro_3 = Pouvez-vous convaincre votre généreux sponsor\nde financer encore plus de vos\ncourses folles ?
+
+cs_spon_q_01_question = Quelles sont vos performances\npour cette saison ?
+cs_spon_q_01_bad      = Plutôt minables, à vrai dire.
+cs_spon_q_01_neutral  = Je vais gagner, pas de problème.
+cs_spon_q_01_correct  = Je fais une saison vraiment pas mal.
+
+cs_spon_q_02_question = En quoi pouvez-vous améliorer l'image\nde ma société ?
+cs_spon_q_02_bad      = J'espérais que vous pourriez améliorer la mienne.
+cs_spon_q_02_neutral  = Votre nom sera placardé partout sur ma voiture.
+cs_spon_q_02_correct  = Mon succès se reflètera sur votre société.
+
+cs_spon_q_03_question = What makes you glad we approached you ?
+cs_spon_q_03_bad      = No-one else was interested.
+cs_spon_q_03_neutral  = You've got a pretty logo.
+cs_spon_q_03_correct  = I know you've got lots of dosh !
+                      
+cs_spon_q_04_question = Avez-vous discuté avec d'autres\nsponsors ?
+cs_spon_q_04_bad      = Ils me harcèlent 24h/24 !
+cs_spon_q_04_neutral  = Ils m'ont tous laissé tomber.
+cs_spon_q_04_correct  = Je préfère rester discret là-dessus.
+  
+cs_spon_q_05_question = How much money do you need ?
+cs_spon_q_05_bad      = How much is the bus fare home ?
+cs_spon_q_05_neutral  = As much as you can spare !
+cs_spon_q_05_correct  = I'll leave it up to you !
+                        
+cs_spon_q_06_question = Why should we choose you ?
+cs_spon_q_06_bad      = You won't get anyone else !
+cs_spon_q_06_neutral  = I'm desperate for the cash !
+cs_spon_q_06_correct  = Because I'm the best !
+                      
+cs_spon_q_07_question = What do you think your chances are\nin the next race ?
+cs_spon_q_07_bad      = Well Brian, it's all in the luck of the draw.
+cs_spon_q_07_neutral  = If I'm doing badly, I'll cheat like mad.
+cs_spon_q_07_correct  = I'll win, no problem !
+                        
+cs_spon_q_08_question = You wouldn't ruin our reputation by\ncheating, would you ?
+cs_spon_q_08_bad      = Vous n'avez pas de notoriété !
+cs_spon_q_08_neutral  = You want me to win, don't you ?
+cs_spon_q_08_correct  = I'm as honest as the day is long.
+  
+cs_spon_q_09_question = Est-ce que vous utilisez nos produits ?
+cs_spon_q_09_bad      = Désolé, vous fabriquez quoi ?
+cs_spon_q_09_neutral  = Mourir prématurément ne me tente pas.
+cs_spon_q_09_correct  = Oui, je suis à 2 paquets par jour (teuheu)
+                      
+cs_spon_q_10_question = Comment avez-vous dépensé votre\ndernier salaire ?
+cs_spon_q_10_bad      = Ma passion : collectionner des timbres.
+cs_spon_q_10_neutral  = Le tiercé.
+cs_spon_q_10_correct  = Des tonnes de missiles !
+                        
+cs_spon_q_11_question = Would you be prepared to endorse our\nproducts on television ?
+cs_spon_q_11_bad      = No, I'm camera shy !
+cs_spon_q_11_neutral  = Yes, I'd be extremely honoured.
+cs_spon_q_11_correct  = If you give me more cash !
+                        
+cs_spon_q_12_question = How would you describe our partnership so far ?
+cs_spon_q_12_bad      = Like chalk and cheese.
+cs_spon_q_12_neutral  = Well, we have our moments....
+cs_spon_q_12_correct  = Oh, just about perfect.
+
+cs_spon_q_13_question = Will this money be used for missiles,\nor repairing your car, or what ?
+cs_spon_q_13_bad      = A caribbean cruise....
+cs_spon_q_13_neutral  = Just a few dents to knock out !
+cs_spon_q_13_correct  = Oh, des tas de missiles.
+                        
+cs_spon_q_14_question = How do we know that you will spend\nour money wisely ?
+cs_spon_q_14_bad      = You don't, and I won't.
+cs_spon_q_14_neutral  = I've got an honest face....
+cs_spon_q_14_correct  = Trust me, I know what I'm doing.
+                        
+cs_spon_q_15_question = Tell me, I've always wanted to drive\na racing car. Could I try yours ?
+cs_spon_q_15_bad      = Jamais de la vie !
+cs_spon_q_15_neutral  = Sure, I'll take you for a drive !
+cs_spon_q_15_correct  = Any time, here's the keys.
+                      
+cs_spon_q_16_question = What are your plans for the future ?
+cs_spon_q_16_bad      = Oh, I live from day to day....
+cs_spon_q_16_neutral  = The way I drive, not much....
+cs_spon_q_16_correct  = I want to be world champion !
+  
+cs_spon_q_17_question = Could we plaster our logo all over\nyour car ?
+cs_spon_q_17_bad      = What, and ruin my designer styling !
+cs_spon_q_17_neutral  = Maybe a sticker or two in the window....
+cs_spon_q_17_correct  = If you're paying, sure....
+                        
+cs_spon_q_18_question = You do understand that you will have to\nwear our specially made driving suit !
+cs_spon_q_18_bad      = As long as they're comfortable !
+cs_spon_q_18_neutral  = Nah, I'm a t-shirt and shorts guy.
+cs_spon_q_18_correct  = Anything you say, boss !
+                      
+cs_spon_q_19_question = Under the terms of the contract, you have\nto advertise our company on T.V.
+cs_spon_q_19_bad      = Ub ub ub errr... ummm....
+cs_spon_q_19_neutral  = Sure, but I'm not exactly in equity.
+cs_spon_q_19_correct  = No, problem, I'm a natural.
+                        
+cs_spon_q_20_question = We want a macho image to go with our\nproduct. Can you provide this !
+cs_spon_q_20_bad      = Bien sûr, je suis dur comme fer.
+cs_spon_q_20_neutral  = Euh, les mecs, euh, faites gaffe, j'arrive ?
+cs_spon_q_20_correct  = Lâche ton missile et bois ta caisse !
+  
+cs_spon_q_21_question = How would you like the money paid to you ?
+cs_spon_q_21_bad      = NOW !
+cs_spon_q_21_neutral  = In very large sums as soon as possible !
+cs_spon_q_21_correct  = Whatever's best for you !
+                      
+cs_spon_q_22_question = You realise that we also have Mario Andrex\non our racing team !
+cs_spon_q_22_bad      = Quel crétin intersidéral !
+cs_spon_q_22_neutral  = Il est assez correct.
+cs_spon_q_22_correct  = On est super potes.
+                        
+cs_spon_q_23_question = How do you visualise our partnership ?
+cs_spon_q_23_bad      = Comme l'eau et l'huile.
+cs_spon_q_23_neutral  = Comme thon et mayonnaise.
+cs_spon_q_23_correct  = Comme le riz et le curry.
+                        
+cs_spon_q_24_question = Times are a bit hard at the moment, so\nwe may have to reduce your payment....
+cs_spon_q_24_bad      = Pas question !
+cs_spon_q_24_neutral  = Tu parles, Charles.
+cs_spon_q_24_correct  = No way, Hose B.
+  
+cs_spon_q_25_question = What is the most important add-on that you\nwill buy with the money we give you ?
+cs_spon_q_25_bad      = New seat covers.
+cs_spon_q_25_neutral  = Une paire de dés en peluche.
+cs_spon_q_25_correct  = A brand new stereo.
+                        
+cs_spon_q_26_question = Are your results going to improve ?
+cs_spon_q_26_bad      = They will as soon as I get some money !
+cs_spon_q_26_neutral  = Je fais de mon mieux !
+cs_spon_q_26_correct  = They better had, or I'll be out !
+                      
+cs_spon_q_27_question = Can you guarantee that you will win the\nnext race ?
+cs_spon_q_27_bad      = Si je perds je mange votre graphe des ventes.
+cs_spon_q_27_neutral  = Je ne suis pas sûr de prendre le départ !
+cs_spon_q_27_correct  = Bien sûr que je vais gagner !
+                        
+cs_spon_q_28_question = What benefits can you provide our\ncompany with in return for our finance.
+cs_spon_q_28_bad      = Je vous donnerai mes bons Total....
+cs_spon_q_28_neutral  = Je vous ferai de la pub quand je pourrai.
+cs_spon_q_28_correct  = Un max de scandale, donc de la pub !
+  
+cs_spon_q_29_question = How else can we help you, apart from\ngiving you loads of money ?
+cs_spon_q_29_bad      = Pay my bar bill !
+cs_spon_q_29_neutral  = Give me MORE money !
+cs_spon_q_29_correct  = Soudoyer tous les autres pilotes !
+                        
+cs_spon_q_30_question = Do you have any thoughts on our\ncompany ?
+cs_spon_q_30_bad      = I'm paid to drive, not to think !
+cs_spon_q_30_neutral  = Not anything you could print !
+cs_spon_q_30_correct  = So long, and thanks for all the fish.
+  
+cs_spon_v_0 = Well, I'm sorry, but we're not giving you\nany money this time. Goodbye.
+
+cs_spon_v_1 = Cashflow is very tight, I'm afraid, so\nall we can afford is 500 pounds.
+
+cs_spon_v_2 = Well.... I think the board would accept\nmy decision to give you 1000 pounds.
+
+cs_spon_v_3 = We're not in the best of positions to do\nthis, but we can give you 1500 pounds.
+
+cs_spon_v_4 = The management are still a little edgy about\nfinancing you, but hell, here's 2000 pounds.
+
+cs_spon_v_5 = All right, I think we can do business on a\nfigure of 2500 pounds. Use it wisely.
+
+cs_spon_v_6 = 3000 pounds is all we can afford at the\npresent time. Maybe see you again, soon.
+
+cs_spon_v_7 = I think then, we can continue our successful\ndeal with a further grant of 3500 pounds.
+
+cs_spon_v_8 = We're not doing too badly at the moment, so\nwe can afford 4000 pounds to help you.
+
+cs_spon_v_9 = Great stuff, and I'm pleased to say you will\nreceive our cheque of 4500 pounds soon.
+
+cs_spon_v_10 = Excellent. Keep up the good work. I'm\nhappy to say we can give you 5000 pounds.

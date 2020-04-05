@@ -1,0 +1,213 @@
+cs_arms_intro_1 = Time to visit your local arms dealer\nCan you wangle some free goodies?
+
+cs_arms_intro_2 = Answer some questions from your arms\ndealer and you may get some freebies.
+
+cs_arms_intro_3 = What can you say to persuade the local\narms dealer to give you some weapons\nfor nothing. Better stock up on facts!
+
+cs_arms_q_01_question = Where do you normally buy your\nhardware?
+cs_arms_q_01_bad      = A man in the pub.
+cs_arms_q_01_neutral  = From the Mafia.
+cs_arms_q_01_correct  = Scud-U-Like.
+                       
+cs_arms_q_02_question = Where do you usually buy your\nhardware?
+cs_arms_q_02_bad      = Jones's Hardware store.
+cs_arms_q_02_neutral  = Second hand from Arnie!
+cs_arms_q_02_correct  = Bombs 'R Us.
+                       
+cs_arms_q_03_question = What do you want the weapons for?
+cs_arms_q_03_bad      = Oh, no special reason.
+cs_arms_q_03_neutral  = Landscaping my garden.
+cs_arms_q_03_correct  = To cheat at Motor Racing.
+                       
+cs_arms_q_04_question = What do you want the weapons for?
+cs_arms_q_04_bad      = Having fun.
+cs_arms_q_04_neutral  = I'm going jogging in Central Park.
+cs_arms_q_04_correct  = To stop people using them on me.
+                       
+cs_arms_q_05_question = Have you got an arms licence?
+cs_arms_q_05_bad      = Yes, of course.
+cs_arms_q_05_neutral  = No, can you get me one?
+cs_arms_q_05_correct  = A licence to kill!
+                       
+cs_arms_q_06_question = Have you got an arms licence?
+cs_arms_q_06_bad      = No, my limbs are exempt.
+cs_arms_q_06_neutral  = No, but my granny has.
+cs_arms_q_06_correct  = I'm not bothered about that.
+                       
+cs_arms_q_07_question = What's your favourite weapon?
+cs_arms_q_07_bad      = A rubber knife.
+cs_arms_q_07_neutral  = Anything nuclear.
+cs_arms_q_07_correct  = The Vulcan death pinch.
+                       
+cs_arms_q_08_question = What's your favourite weapon?
+cs_arms_q_08_bad      = My forehead.
+cs_arms_q_08_neutral  = My disarming sense of humour.
+cs_arms_q_08_correct  = The eight-way Supermissile.
+                       
+cs_arms_q_09_question = Are missiles allowed in motor racing?
+cs_arms_q_09_bad      = Doh! Of course not.
+cs_arms_q_09_neutral  = Um, errrr..., its a bit of a grey area.
+cs_arms_q_09_correct  = Oh yes, we all use them.
+                       
+cs_arms_q_10_question = Are nitros allowed in motor racing?
+cs_arms_q_10_bad      = I usually get away with it.
+cs_arms_q_10_neutral  = It can be our little secret.
+cs_arms_q_10_correct  = Who's going to argue?
+                       
+cs_arms_q_11_question = What will you say if you are caught\nwith weapons?
+cs_arms_q_11_bad      = That I got them from you.
+cs_arms_q_11_neutral  = I thought they were tractor parts.
+cs_arms_q_11_correct  = I know nothing.
+                       
+cs_arms_q_12_question = What will you say if you are caught\nwith weapons?
+cs_arms_q_12_bad      = I was just going to hand them in.
+cs_arms_q_12_neutral  = They're for my friend, Mr Hussein.
+cs_arms_q_12_correct  = CHEW MISSILES, SUCKER!
+                       
+cs_arms_q_13_question = Are you a violent person?
+cs_arms_q_13_bad      = I'm a lickle fluffy bunny wabbit.
+cs_arms_q_13_neutral  = I like missiles, me.
+cs_arms_q_13_correct  = Do you want a fight?
+                       
+cs_arms_q_14_question = Are you a violent person?
+cs_arms_q_14_bad      = Not really, no.
+cs_arms_q_14_neutral  = Only when necessary.
+cs_arms_q_14_correct  = KILLKILLKILLKILLKILLKILLKILL!!!
+                       
+cs_arms_q_15_question = What are your opinions on the\nsuper missile?
+cs_arms_q_15_bad      = It's overpriced.
+cs_arms_q_15_neutral  = It could be better.
+cs_arms_q_15_correct  = It's brilliant.
+                       
+cs_arms_q_16_question = What are your opinions on the\nsuper missile?
+cs_arms_q_16_bad      = It's expensive.
+cs_arms_q_16_neutral  = It's underpowered.
+cs_arms_q_16_correct  = It's a knockout.
+                       
+cs_arms_q_17_question = How much is the average price of\na rear missile?
+cs_arms_q_17_bad      = 500 pounds.
+cs_arms_q_17_neutral  = 400 pounds.
+cs_arms_q_17_correct  = 200 pounds.
+                       
+cs_arms_q_18_question = How much is the average price of\na rear missile?
+cs_arms_q_18_bad      = 100 pounds.
+cs_arms_q_18_neutral  = 300 pounds.
+cs_arms_q_18_correct  = 200 pounds.
+                       
+cs_arms_q_19_question = How much is the normal cost of a mine?
+cs_arms_q_19_bad      = 300 pounds.
+cs_arms_q_19_neutral  = 500 pounds.
+cs_arms_q_19_correct  = 400 pounds.
+                       
+cs_arms_q_20_question = How much is the normal cost of a mine?
+cs_arms_q_20_bad      = 200 pounds.
+cs_arms_q_20_neutral  = 350 pounds.
+cs_arms_q_20_correct  = 400 pounds.
+                       
+cs_arms_q_21_question = How much would you normally pay for\none unit of armour?
+cs_arms_q_21_bad      = 800 pounds.
+cs_arms_q_21_neutral  = 400 pounds.
+cs_arms_q_21_correct  = 500 pounds.
+                       
+cs_arms_q_22_question = How much would you normally pay for\none unit of armour?
+cs_arms_q_22_bad      = 300 pounds.
+cs_arms_q_22_neutral  = 600 pounds.
+cs_arms_q_22_correct  = 500 pounds.
+                       
+cs_arms_q_23_question = How much is the basic cost of the\namazing homing missile?
+cs_arms_q_23_bad      = 750 pounds.
+cs_arms_q_23_neutral  = 500 pounds.
+cs_arms_q_23_correct  = 500 pounds.
+                       
+cs_arms_q_24_question = How much is the basic cost of the\namazing homing missile?
+cs_arms_q_24_bad      = 400 pounds.
+cs_arms_q_24_neutral  = 600 pounds.
+cs_arms_q_24_correct  = 500 pounds.
+                       
+cs_arms_q_25_question = How much is a fair price for a nitro?
+cs_arms_q_25_bad      = 400 pounds.
+cs_arms_q_25_neutral  = 500 pounds.
+cs_arms_q_25_correct  = 300 pounds.
+                       
+cs_arms_q_26_question = How much is a fair price for a nitro?
+cs_arms_q_26_bad      = 400 pounds.
+cs_arms_q_26_neutral  = 200 pounds.
+cs_arms_q_26_correct  = 300 pounds.
+                       
+cs_arms_q_27_question = What is the maximum speed of a\nhoming missile?
+cs_arms_q_27_bad      = 50 mph.
+cs_arms_q_27_neutral  = 30 mph.
+cs_arms_q_27_correct  = 90 mph.
+                       
+cs_arms_q_28_question = What is the maximum speed of a\nhoming missile?
+cs_arms_q_28_bad      = 140 mph.
+cs_arms_q_28_neutral  = 200 mph.
+cs_arms_q_28_correct  = About 90 mph.
+                       
+cs_arms_q_29_question = What is the maximum speed of a mine?
+cs_arms_q_29_bad      = 50 mph.
+cs_arms_q_29_neutral  = 30 mph.
+cs_arms_q_29_correct  = None.
+                       
+cs_arms_q_30_question = What is the maximum speed of a mine?
+cs_arms_q_30_bad      = 140 mph.
+cs_arms_q_30_neutral  = 200 mph.
+cs_arms_q_30_correct  = 0 mph.
+
+cs_arms_q_31_question = What is the maximum speed of a mine?
+cs_arms_q_31_bad      = 140 mph.
+cs_arms_q_31_neutral  = 200 mph.
+cs_arms_q_31_correct  = Is this supposed to be funny ?
+                       
+cs_arms_q_32_question = What is the maximum thrust of a\nfront missile?
+cs_arms_q_32_bad      = 36000 N.
+cs_arms_q_32_neutral  = 6000 N.
+cs_arms_q_32_correct  = 16000 N.
+                       
+cs_arms_q_33_question = What is the maximum thrust of a\nfront missile?
+cs_arms_q_33_bad      = 8000 N.
+cs_arms_q_33_neutral  = 20000 N.
+cs_arms_q_33_correct  = 16000 N.
+                       
+cs_arms_q_34_question = What is the maximum thrust of a\nsuper missile?
+cs_arms_q_34_bad      = 25000 N.
+cs_arms_q_34_neutral  = 16000 N.
+cs_arms_q_34_correct  = 4000 N.
+                       
+cs_arms_q_35_question = What is the maximum thrust of a\nsuper missile?
+cs_arms_q_35_bad      = 800 N.
+cs_arms_q_35_neutral  = 1000 N.
+cs_arms_q_35_correct  = 4000 N.
+
+cs_arms_q_36_question = What is the approximate weight of\na rear missile?
+cs_arms_q_36_bad      = 10 Kg.
+cs_arms_q_36_neutral  = 400 Kg.
+cs_arms_q_36_correct  = 30 Kg.
+                       
+cs_arms_q_37_question = What is the approximate weight of\na rear missile?
+cs_arms_q_37_bad      = 5 Kg.
+cs_arms_q_37_neutral  = 120 Kg.
+cs_arms_q_37_correct  = 30 Kg.
+
+cs_arms_q_38_question = What is the approximate weight of\na homing missile?
+cs_arms_q_38_bad      = 300 Kg.
+cs_arms_q_38_neutral  = 110 Kg.
+cs_arms_q_38_correct  = 50 Kg.
+                       
+cs_arms_q_39_question = What is the approximate weight of\na homing missile?
+cs_arms_q_39_bad      = 127 Kg.
+cs_arms_q_39_neutral  = 30 Kg.
+cs_arms_q_39_correct  = 50 Kg.
+
+cs_arms_v_0 = Sorry, I'm not giving you any free weapons.
+cs_arms_v_1 = I'll throw in 5 front missiles as a free\ngift. Goodbye.
+cs_arms_v_2 = Right then, here's 3 nitros. See\nyou later.
+cs_arms_v_3 = Ok I'll give you 5 super missiles.\nDon't use them all at once!
+cs_arms_v_4 = Great. Here's 5 homing missiles to be\ngoing on with. Have fun!
+cs_arms_v_5 = With all these missiles flying about, take\n2 armours & 1 ram to help you keep safe!
+cs_arms_v_6 = I'm going to give you 15 rear missiles.\nTake care.
+cs_arms_v_7 = I've got loads of nitros right now.\nHow would you like 12 free ones. Bye.
+cs_arms_v_8 = I know they're expensive, but hey, I'm a\ngenerous guy. Here's 8 homing missiles.
+cs_arms_v_9 = You won't need to watch out behind you\nwith the 20 mines I'm giving you. Bye.
+cs_arms_v_10 = Great answers. Have 10 homing missiles\nand 5 rear missiles. Have a good time.
+

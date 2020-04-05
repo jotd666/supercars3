@@ -1,0 +1,14 @@
+location_1 = Ceiriog forest
+location_2 = Llechydav
+location_3 = Maesbury Marsh
+location_4 = Minera
+location_5 = Chirk
+location_6 = Deganwy
+location_7 = Nantmawr
+comments_1 = Fairly simple, but long course,\nwith a long diagonal run
+comments_2 = Many bumpy chicanes lead into a\nwidebanked finishing straight
+comments_3 = Choice of easy and hard routes\nand several shortcuts
+comments_4 = Jumps, crossovers and bridges.\nThe road 'weaves' up and down.
+comments_5 = Unfenced course, beware of being\npushed out of bounds
+comments_6 = Choice of ground or 'air' routes\nand a tight thin bottleneck
+comments_7 = Jumps and level crossings on a\ncircular-type course

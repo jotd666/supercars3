@@ -1,0 +1,13 @@
+< LEVEL_INFORMATION
+ < name Medium >
+ < nb_circuits 7 >
+ < human
+  < initial_engine 1 >
+ >
+ < cpu
+  < initial_engine 0.9 >
+  < final_engine 2.4 >
+  < nb_front_weapons 10 >
+  < nb_rear_weapons 10 >
+  < aggressivity 3000 4000 5000 6000 7000 8000 9000 >
+ >

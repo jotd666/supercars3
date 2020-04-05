@@ -1,0 +1,165 @@
+cs_ps_intro_1       = You have been summoned to the local police\nto answer questions on various alleged\noffences, and are facing a large fine....
+cs_ps_intro_2       = The local police force dont seem to have\ntaken too kindly to your antics and you\nfind yourself in interview room 2....
+cs_ps_intro_3       = You find yourself in the local police\nstation trying to talk your way out\nof parting with lots of cash....
+
+cs_ps_q_01_question = Where's the fire ?
+cs_ps_q_01_bad      = In that car I've just blown up !
+cs_ps_q_01_neutral  = My wife's having a baby !
+cs_ps_q_01_correct  = What fire officer ?
+                       
+cs_ps_q_02_question = What was your hurry, Nigel Mansell ?
+cs_ps_q_02_bad      = I want to get home to watch Neighbours.
+cs_ps_q_02_neutral  = There were lots of nasty cars chasing me.
+cs_ps_q_02_correct  = I'm playing golf with Inspector Ballesteros.
+                       
+cs_ps_q_03_question = Who's been a naughty boy then ?
+cs_ps_q_03_bad      = Ronnie Biggs ?
+cs_ps_q_03_neutral  = This is disgraceful, I've paid my Poll Tax !
+cs_ps_q_03_correct  = Not ME officer sir !
+                       
+cs_ps_q_04_question = Have you been drinking ?
+cs_ps_q_04_bad      = Errr..., no occifer.
+cs_ps_q_04_neutral  = WHEEEE! Roll out the barrel ! Wibble ! Barf !
+cs_ps_q_04_correct  = Certainly not officer, I'm teetotal.
+                       
+cs_ps_q_05_question = Alright moonbeam, lets see your documents.
+cs_ps_q_05_bad      = Oh dear! I've left them in my other jacket.
+cs_ps_q_05_neutral  = Don't call me moonbeam, sunshine.
+cs_ps_q_05_correct  = Here you are officer, they're all in order.
+                       
+cs_ps_q_06_question = You idiot ! You have just rammed a car !\nWhat have you got to say about that ?
+cs_ps_q_06_bad      = I'm sorry, I must have nodded off.
+cs_ps_q_06_neutral  = No I didn't ! He reversed into me !
+cs_ps_q_06_correct  = I had to ! I'd run out of missiles !
+                       
+cs_ps_q_07_question = I have reason to believe you have illegal\narmour piercing missiles in your possession.
+cs_ps_q_07_bad      = ILLEGAL. They didn't tell me that in the shop.
+cs_ps_q_07_neutral  = They're not mine, they're Oliver North's.
+cs_ps_q_07_correct  = I dont know what you mean, officer !
+                       
+cs_ps_q_08_question = O.K. buster, lets have a look under\nyour bonnet.
+cs_ps_q_08_bad      = Why ? Are you a mechanic ?
+cs_ps_q_08_neutral  = Not without a search warrant.
+cs_ps_q_08_correct  = Certainly Officer, I've got nothing to hide.
+                       
+cs_ps_q_09_question = I've heard that some of the drivers are\ncarrying missiles and machine guns.
+cs_ps_q_09_bad      = I don't, but I know a man who does !
+cs_ps_q_09_neutral  = You want to see my weapon !?!?
+cs_ps_q_09_correct  = Oh no, not me sir, I'm a nice person.
+                       
+cs_ps_q_10_question = I notice your brake lights aren't working.
+cs_ps_q_10_bad      = That's because my brakes aren't working !
+cs_ps_q_10_neutral  = Oh officer, what big ears you have !
+cs_ps_q_10_correct  = It doesn't matter, I NEVER use the brakes.
+                       
+cs_ps_q_11_question = How fast do you think you were driving ?
+cs_ps_q_11_bad      = Very VERY fast indeed !
+cs_ps_q_11_neutral  = Oooooh, not very fast.
+cs_ps_q_11_correct  = Well within the speed limit officer.
+                       
+cs_ps_q_12_question = Have you got a clean driving licence ?
+cs_ps_q_12_bad      = No, but I've got a clean dog licence !
+cs_ps_q_12_neutral  = No, one more point and I lose it.
+cs_ps_q_12_correct  = Yes, totally clean.
+                       
+cs_ps_q_13_question = Is this the first time you have been in\ntrouble with the police ?
+cs_ps_q_13_bad      = I was arrested for overtaking a police car.
+cs_ps_q_13_neutral  = I had a parking ticket once.
+cs_ps_q_13_correct  = Yes, as far as I can remember.
+                       
+cs_ps_q_14_question = Have you ever driven your car under the\ninfluence of drugs ?
+cs_ps_q_14_bad      = HeY mAN!! lOooK aT tHe cOloURs oN thE WalL !
+cs_ps_q_14_neutral  = I do get regular headaches....
+cs_ps_q_14_correct  = I don't smoke, drink or take drugs.
+                       
+cs_ps_q_15_question = Is your car in good working order ?
+cs_ps_q_15_bad      = It's a total shed !
+cs_ps_q_15_neutral  = What? The way I drive !
+cs_ps_q_15_correct  = Yes, my team of mechanics keep it in order.
+                       
+cs_ps_q_16_question = Is your insurance in order ?
+cs_ps_q_16_bad      = Errr, I'm not insured....
+cs_ps_q_16_neutral  = Who would insure me ?
+cs_ps_q_16_correct  = Of course.
+                       
+cs_ps_q_17_question = Would you care to contribute to the\nRetired Policemen's Benevolent Fund
+cs_ps_q_17_bad      = No way !
+cs_ps_q_17_neutral  = What do you mean, a bribe ?
+cs_ps_q_17_correct  = Sure, I'll write a cheque !
+                       
+cs_ps_q_18_question = Hello Hello Hello....\nWhat have we here then ?
+cs_ps_q_18_bad      = A police station ?
+cs_ps_q_18_neutral  = An echo ?
+cs_ps_q_18_correct  = A very old cliched line ?
+                       
+cs_ps_q_19_question = Does your car have a current M.O.T.
+cs_ps_q_19_bad      = No, it would never pass one.
+cs_ps_q_19_neutral  = I was just taking it to be M.O.T.'d
+cs_ps_q_19_correct  = Yes, about six months left.
+                       
+cs_ps_q_20_question = Is your road tax up to date ?
+cs_ps_q_20_bad      = I never bother paying road tax.
+cs_ps_q_20_neutral  = No.
+cs_ps_q_20_correct  = It's in the post !
+                       
+cs_ps_q_21_question = Didn't you realise there was a speed\nlimit in built up areas.
+cs_ps_q_21_bad      = Errr, yes. I'm sorry.
+cs_ps_q_21_neutral  = My speedometer doesn't work !
+cs_ps_q_21_correct  = I thought 30 was the minimum speed.
+                       
+cs_ps_q_22_question = Do you think you would pass a\nbreath test ?
+cs_ps_q_22_bad      = No, I would probably melt the bag.
+cs_ps_q_22_neutral  = No, I've got halitosis !
+cs_ps_q_22_correct  = Does eating garlic count ?
+                       
+cs_ps_q_23_question = Do you know either of the people on\nour WANTED posters ?
+cs_ps_q_23_bad      = They're not me, officer !
+cs_ps_q_23_neutral  = I've never seen them before.
+cs_ps_q_23_correct  = The one on the left looks familiar !
+                       
+cs_ps_q_24_question = Have you got a Police record ?
+cs_ps_q_24_bad      = Yes, Every breathalyser you take.
+cs_ps_q_24_neutral  = Yes, Walking on the Moon !
+cs_ps_q_24_correct  = No, but I've got a Sting album !
+                       
+cs_ps_q_25_question = I suppose you think you're clever.
+cs_ps_q_25_bad      = Actually I have an I.Q. of 183 !
+cs_ps_q_25_neutral  = Well excuuuuuuuse me !!!!
+cs_ps_q_25_correct  = Why ? Is that illegal as well now ?
+                       
+cs_ps_q_26_question = What have you got to say for\nyourself ?
+cs_ps_q_26_bad      = I'm smart, I'm good looking....
+cs_ps_q_26_neutral  = They forced the confession out of me !
+cs_ps_q_26_correct  = Beam me up Scotty !
+                       
+cs_ps_q_27_question = So, do you confess to the Great Train\nRobbery.
+cs_ps_q_27_bad      = Yes. Slap on the bracelets, guvnor.
+cs_ps_q_27_neutral  = I hit trains, not steal them.
+cs_ps_q_27_correct  = No, it was Ronnie Biggs !
+                       
+cs_ps_q_28_question = Where were you on the evening of\nDecember 24th 1990.
+cs_ps_q_28_bad      = At Midnight mass.
+cs_ps_q_28_neutral  = Committing a crime....
+cs_ps_q_28_correct  = In the Old Boars Head Pub.
+                       
+cs_ps_q_29_question = Have we got your fingerprints on\nrecord ?
+cs_ps_q_29_bad      = Yes, I'm here all the time.
+cs_ps_q_29_neutral  = No, I had them removed by laser.
+cs_ps_q_29_correct  = I didn't know they could sing.
+                       
+cs_ps_q_30_question = I'd better not see you in here again.
+cs_ps_q_30_bad      = I wouldn't be surprised if I'm back.
+cs_ps_q_30_neutral  = I'll try to keep the peace.
+cs_ps_q_30_correct  = I promise I'll be good, officer.
+
+cs_ps_v_0           = Criminals like you should be locked up.\nI'm fining you 5000 pounds.
+cs_ps_v_1           = You need a large fine as a deterrent, so\nI'm fining you 4500 pounds. Dont come back.
+cs_ps_v_2           = I've heard enough. I'm fining you 4000\npounds, Don't get in trouble again.
+cs_ps_v_3           = The size of our fine reflects society's\ndisgust at your actions. Fined 3500 pounds.
+cs_ps_v_4           = You obviously need to be taught a lesson,\nso you will be fined 3000 pounds.
+cs_ps_v_5           = A prison sentence would be preferable but\nI think a fine of 2500 pounds should suffice.
+cs_ps_v_6           = Grossly irresponsible criminal behaviour\nof the most flagrant kind. Fine 2000 pounds.
+cs_ps_v_7           = I think I've heard enough. You will be\nfined 1500 pounds. Dont do it again.
+cs_ps_v_8           = I dont believe your excuses at all.\nFine 1000 pounds.
+cs_ps_v_9           = You're not a menace to society, but\nI'm still going to fine you 500 pounds.
+cs_ps_v_10          = OK. I understand, we'll let you off this time\nbut try not to get into trouble again.

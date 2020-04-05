@@ -1,0 +1,14 @@
+location_1 = Pontrobert
+location_2 = Llandvddyn, Lac Vyrnwy
+location_3 = Meifod
+location_4 = Glyn Ceiriog
+location_5 = Colemere
+location_6 = Weston Rhyn
+location_7 = Panorama
+comments_1 = Une très longue course avec des\ncroisements et des ponts
+comments_2 = Cinq sauts à la suite suivis\npar des virages en contrebas
+comments_3 = Roulez sur la voie ferrée et utilisez\nles raccourcis pour gagner des places
+comments_4 = Trois sauts qui s'enchaînent\net un long tunnel
+comments_5 = Choix du trajet, barrières mouvantes\net trains rapides
+comments_6 = Sautez au dessus du train, puis\ntraversez le passage à niveau
+comments_7 = La dernière course, très longue avec\nun saut croisé.

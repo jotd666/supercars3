@@ -1,0 +1,14 @@
+location_1 = Bagley Marsh
+location_2 = Bwlchyddar
+location_3 = Bomere Heath
+location_4 = Nantyr
+location_5 = Ellesmere
+location_6 = Ruabon Mountain
+location_7 = St Martins
+comments_1 = Première course simple.\nAdmirez le paysage.
+comments_2 = Un saut, un pont, du sable\net une longue ligne droite.
+comments_3 = Course à peu près plate, sinueuse\navec quelques collines.
+comments_4 = Beaucoup de tunnels et plusieurs lignes\ndroites larges et bordées de sable.
+comments_5 = Course courte et rapide, avec choix du trajet\net un passage à niveau.
+comments_6 = Course longue avec un saut\ndifficile dans un virage.
+comments_7 = Longues lignes droites et virages serrés,\navec des portes pour gagner du temps.

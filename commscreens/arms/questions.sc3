@@ -1,0 +1,19 @@
+< COMMUNICATION_SCREEN
+< at_stake weapons >
+< minimum 0 >
+< maximum 10 >
+< nb_questions 39 >
+< allowed_neutral 2 >
+< extra_pictures 0 >
+
+
+< question_list
+< first 1 >
+< last 39 >
+>
+
+
+< question_end
+>
+
+>

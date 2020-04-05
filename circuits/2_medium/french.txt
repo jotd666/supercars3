@@ -1,0 +1,14 @@
+location_1 = Forêt de Fontaineblou
+location_2 = Maubège
+location_3 = Fosse-sur-ver
+location_4 = Rignieux-le-faux
+location_5 = Chirk
+location_6 = Deganwy
+location_7 = Nantmawr
+comments_1 = Plutôt simple, mais course longue,\navec une grande ligne droite diagonale
+comments_2 = Plusieurs chicanes à bosses mènent\nà une large ligne droite
+comments_3 = Choix d'itinéraire facile ou difficile\net plusieurs raccourcis
+comments_4 = Sauts, croisements et ponts.\nLa route monte et descend.
+comments_5 = Course sans barrières. Attention à ne pas être\ndévié hors des limites.
+comments_6 = Choix entre route et tremplins et\nun virage en épingle à cheveux serré
+comments_7 = Sauts et passages à niveau dans cette\ncourse assez circulaire

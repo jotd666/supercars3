@@ -1,0 +1,17 @@
+< CAR_DESCRIPTION
+< name New%20Beetle >
+< geometry
+< left 76 >
+< right 565 >
+< top 132 >
+< bottom 347 >
+< h_margin 7 >
+< v_margin 0 >
+< h_scale 0.10 >
+< v_scale 0.12 >
+< brightness 1 >
+< green_threshold 1.2 >
+>
+
+
+>

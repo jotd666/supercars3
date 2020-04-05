@@ -1,0 +1,165 @@
+cs_ps_intro_1       = Vous avez été convoqué par la police locale\npour répondre aux soupçons sur des délits\ndivers, vous risquez une grosse amende....
+cs_ps_intro_2       = La police locale n'a pas trop apprécié\nvos délires et vous\nvous retrouvez dans la salle d'interrogatoire 2....
+cs_ps_intro_3       = Vous vous trouvez au poste de police,\nessayant de baratiner pour vous en sortir\nsans trop de frais....
+
+cs_ps_q_01_question = Il y a le feu ?
+cs_ps_q_01_bad      = Dans cette caisse que je viens de faire sauter !
+cs_ps_q_01_neutral  = Ma femme accouche !
+cs_ps_q_01_correct  = Quel feu, monsieur l'agent ?
+                       
+cs_ps_q_02_question = Vous êtes pressé, Nigel Mansell ?
+cs_ps_q_02_bad      = Je voulais rentrer chez moi regarder Star Ac'.
+cs_ps_q_02_neutral  = Y avait plein de sales caisses qui me poursuivaient.
+cs_ps_q_02_correct  = J'avais un golf avec l'Inspecteur Ballesteros.
+                       
+cs_ps_q_03_question = Qui n'a pas été sage alors ?
+cs_ps_q_03_bad      = Ronnie Biggs ?
+cs_ps_q_03_neutral  = C'est honteux, j'ai payé l'I.S.F. !
+cs_ps_q_03_correct  = chef Pas MOI monsieur l'agent chef
+                       
+cs_ps_q_04_question = Vous avez bu ?
+cs_ps_q_04_bad      = Euhhh... non monsieur jalent.
+cs_ps_q_04_neutral  = EEEEH! Envoie le cubi ! Glou-glou ! Beeeuuaaah !
+cs_ps_q_04_correct  = Certainement pas, mr l'agent, je ne bois jamais.
+                       
+cs_ps_q_05_question = O.K. crapule, voyons voir tes papiers.
+cs_ps_q_05_bad      = Mon dieu! je les ai laissés dans mon autre veste.
+cs_ps_q_05_neutral  = C'est qui que t'appelles crapule, ordure ?
+cs_ps_q_05_correct  = Les voilà, monsieur l'agent. Tout est en règle.
+                       
+cs_ps_q_06_question = Abruti ! Vous venez de défoncer une voiture !\nPourquoi tu as fait ça ?
+cs_ps_q_06_bad      = Désolé, j'ai dû m'assoupir.
+cs_ps_q_06_neutral  = C'est pas moi. Il a fait marche arrière sur moi !
+cs_ps_q_06_correct  = J'étais obligé, je n'avais plus de missiles !
+                       
+cs_ps_q_07_question = J'ai des raisons de croire que vous possédez\nillégalement des missiles anti-blindés.
+cs_ps_q_07_bad      = ILLEGALEMENT ? C'est pas ce que le vendeur m'a dit.
+cs_ps_q_07_neutral  = Ils ne sont pas à moi, mais à Oliver North.
+cs_ps_q_07_correct  = Je ne vois pas ce que vous voulez dire mr l'agent !
+                       
+cs_ps_q_08_question = O.K. mon pote, regardons un peu\nsous ton capot.
+cs_ps_q_08_bad      = Pourquoi ? Vous êtes mécanicien ?
+cs_ps_q_08_neutral  = Pas sans commission rogatoire.
+cs_ps_q_08_correct  = Bien sûr mr l'agent, je n'ai rien à cacher.
+                       
+cs_ps_q_09_question = Il paraît que certains conducteurs\ntransportent des missiles et des mitrailleuses.
+cs_ps_q_09_bad      = Moi non, mais j'en connais un !
+cs_ps_q_09_neutral  = Vous voulez voir mon calibre !?!?
+cs_ps_q_09_correct  = Oh non, pas moi monsieur, je suis très gentil.
+                       
+cs_ps_q_10_question = Je vois que vos feux stop ne fonctionnent pas.
+cs_ps_q_10_bad      = C'est parce que mes freins ne fonctionnent pas !
+cs_ps_q_10_neutral  = Oh monsieur l'agent, vous avez de grandes oreilles !
+cs_ps_q_10_correct  = Pas grave, je n'utilise JAMAIS les freins.
+                       
+cs_ps_q_11_question = A combien croyez-vous que vous rouliez ?
+cs_ps_q_11_bad      = Très TRES vite en fait !
+cs_ps_q_11_neutral  = Oooooh, pas très vite.
+cs_ps_q_11_correct  = Eh bien, en dessous de la limite, mr l'agent.
+                       
+cs_ps_q_12_question = Est-ce que vous avez beaucoup de points sur\nvotre permis ?
+cs_ps_q_12_bad      = Non, mais j'ai un permis pour mon pit-bull !
+cs_ps_q_12_neutral  = Non, encore un point et je le perds.
+cs_ps_q_12_correct  = Oui, tous.
+                       
+cs_ps_q_13_question = Est-ce la première fois que vous avez un problème\navec la police ?
+cs_ps_q_13_bad      = J'ai été arrété pour avoir doublé une patrouille.
+cs_ps_q_13_neutral  = J'ai eu une contravention de stationnement une fois.
+cs_ps_q_13_correct  = Oui, je crois.
+                       
+cs_ps_q_14_question = Avez-vous déjà conduit sous\nl'influence de la drogue ?
+cs_ps_q_14_bad      = He mEC!! MAaatE lEs cOuLeUrs sUr lE mUUuur !
+cs_ps_q_14_neutral  = J'ai des migraines chroniques....
+cs_ps_q_14_correct  = Je ne bois pas, ne fume pas, ne me drogue pas.
+                       
+cs_ps_q_15_question = Est-ce que votre voiture est en bon état ?
+cs_ps_q_15_bad      = C'est une sous-ruine !
+cs_ps_q_15_neutral  = Quoi? Vu comment je conduis !
+cs_ps_q_15_correct  = Oui, mon équipe de mécaniciens l'entretient.
+                       
+cs_ps_q_16_question = Est-ce que votre assurance est en règle ?
+cs_ps_q_16_bad      = Euh, je ne suis pas assuré....
+cs_ps_q_16_neutral  = Vous pourriez m'assurer ?
+cs_ps_q_16_correct  = Bien sûr.
+                       
+cs_ps_q_17_question = Vous voudriez participer au fonds pour les policiers\nà la retraite ?
+cs_ps_q_17_bad      = Pas question !
+cs_ps_q_17_neutral  = Quoi, vous voulez un pot de vin ?
+cs_ps_q_17_correct  = D'accord, je fais un chèque !
+                       
+cs_ps_q_18_question = Ohé ohé ohé....\nQu'est ce que c'est ?
+cs_ps_q_18_bad      = Un poste de police ?
+cs_ps_q_18_neutral  = Un echo ?
+cs_ps_q_18_correct  = Un cliché éculé ?
+                       
+cs_ps_q_19_question = Est-ce que votre voiture a passé le contrôle\ntechnique ?
+cs_ps_q_19_bad      = Non, elle ne passerait jamais.
+cs_ps_q_19_neutral  = Je l'amenais justement au contrôle technique.
+cs_ps_q_19_correct  = Oui, il y a six mois environ.
+                       
+cs_ps_q_20_question = Avez-vous payé votre vignette ?
+cs_ps_q_20_bad      = Je ne m'emmerde jamais à payer la vignette.
+cs_ps_q_20_neutral  = Non.
+cs_ps_q_20_correct  = C'est au courrier !
+                       
+cs_ps_q_21_question = Vous ignoriez qu'il y a une limite\nde vitesse en ville ?
+cs_ps_q_21_bad      = Euh, oui, désolé.
+cs_ps_q_21_neutral  = Mon compteur ne fonctionne pas !
+cs_ps_q_21_correct  = Je croyais que 50 c'était la vitesse minimale.
+                       
+cs_ps_q_22_question = Vous pensez pouvoir passer un alcootest ?
+cs_ps_q_22_bad      = Non, je pense que le sac fondrait.
+cs_ps_q_22_neutral  = Non, j'ai super mauvaise haleine !
+cs_ps_q_22_correct  = Est-ce qu'on a le droit de manger de l'ail ?
+                       
+cs_ps_q_23_question = Reconnaissez-vous quelqu'un sur\nnos affiches ?
+cs_ps_q_23_bad      = Ce n'est pas moi !
+cs_ps_q_23_neutral  = Je ne les ai jamais vus.
+cs_ps_q_23_correct  = Celui de gauche me dit quelque chose !
+                       
+cs_ps_q_24_question = Avez-vous un enregistrement de Police ?
+cs_ps_q_24_bad      = Oui, "Every breathalyser you take".
+cs_ps_q_24_neutral  = Oui, "Walking on the Moon" !
+cs_ps_q_24_correct  = Non, mais j'ai un album de Sting!
+                       
+cs_ps_q_25_question = Je suppose que vous vous croyez malin.
+cs_ps_q_25_bad      = En fait, mon Q.I. est de 183 !
+cs_ps_q_25_neutral  = Alors excuuuuuusez-moi !
+cs_ps_q_25_correct  = Pourquoi ? Ca aussi c'est interdit ?
+                       
+cs_ps_q_26_question = Qu'avez vous à dire pour votre défense ?
+cs_ps_q_26_bad      = Je suis malin, et bien de ma personne....
+cs_ps_q_26_neutral  = Ils m'ont fait avouer par la force !
+cs_ps_q_26_correct  = Ramène-moi au vaisseau, Scotty !
+                       
+cs_ps_q_27_question = Donc, avouez-vous le casse ferroviaire du siècle ?
+cs_ps_q_27_bad      = Oui, mettez-moi les pinces, chef.
+cs_ps_q_27_neutral  = Je me prends des trains, mais ne les vole pas.
+cs_ps_q_27_correct  = Non, c'était Ronnie Biggs !
+                       
+cs_ps_q_28_question = Où étiez-vous le soir du\n24 décembre 1990 ?
+cs_ps_q_28_bad      = A la messe de minuit
+cs_ps_q_28_neutral  = En train de commettre un crime....
+cs_ps_q_28_correct  = Au Old Boars Head Pub.
+                       
+cs_ps_q_29_question = Est-ce que vous avez vos empreintes\ndigitales enregistrées ?
+cs_ps_q_29_bad      = Oui, je suis ici en permanence.
+cs_ps_q_29_neutral  = Non, je les ai faites enlever au laser.
+cs_ps_q_29_correct  = Je ne savais pas qu'elles chantaient.
+                       
+cs_ps_q_30_question = Il vaudrait mieux que je ne vous revoie pas ici.
+cs_ps_q_30_bad      = Ca m'étonnerait pas si je revenais.
+cs_ps_q_30_neutral  = J'essaierai de ne pas foutre la merde.
+cs_ps_q_30_correct  = Je promets que je sera sage, monsieur l'agent.
+
+cs_ps_v_0           = Les criminels comme vous devraient être enfermés.\nJe vous mets une amende de 5000 euros
+cs_ps_v_1           = Vous avez besoin d'une grosse amende pour\ncomprendre: ce sera 4500 euros.\nQu'on ne vous voie plus.
+cs_ps_v_2           = J'en ai assez entendu. Je vous mets 4000\neuros d'amende, tâchez de rester tranquille.
+cs_ps_v_3           = La taille de l'amende correspond au dégoût de la société\npour vos actes. Amende: 3500 euros.
+cs_ps_v_4           = Il vous faut visiblement une leçon,\naussi je vous mets 3000 euros d'amende.
+cs_ps_v_5           = Il vaudrait mieux vous emprisonner\nmais avec une amende de 2500 euros, ça ira.
+cs_ps_v_6           = Comportement irresponsable et criminel\nde la pire espèce. Amende de 2000 euros.
+cs_ps_v_7           = Ca suffit. Vous avez une amende\nde 1500 euros. Ne recommencez pas.
+cs_ps_v_8           = Je ne crois pas un mot de vos explications.\n1000 euros d'amende.
+cs_ps_v_9           = Vous n'êtes pas une menace pour la société, mais\nje vous mets quand même 500 euros d'amende.
+cs_ps_v_10          = D'accord, je comprends, on laisse passer pour\ncette fois mais restez loin des ennuis.

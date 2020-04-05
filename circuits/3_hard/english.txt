@@ -1,0 +1,14 @@
+location_1 = Pontrobert
+location_2 = Llandvddyn, Lake Vyrnwy
+location_3 = Meifod
+location_4 = Glyn Ceiriog
+location_5 = Colemere
+location_6 = Weston Rhyn
+location_7 = Panorama
+comments_1 = A very long winding course with\ncrossovers jumps and bridges
+comments_2 = Five jumps in a row followed by a\ntwisting road at ground level
+comments_3 = Race along the railway and time\nthe shortcuts to gain positions
+comments_4 = Three jumps one after another\nand a long tunnel
+comments_5 = Choices of routes, opening gates\nand fast trains
+comments_6 = Jump over a railway line, then\ncross over the level crossing
+comments_7 = The last course, very long, with\na crossover jump in mid-air.

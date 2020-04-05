@@ -1,0 +1,17 @@
+< CAR_DESCRIPTION
+< name Mercedes%20Class%20C >
+< geometry
+< left 22 >
+< right 296 >
+< top 66 >
+< bottom 174 >
+< h_margin 6 >
+< v_margin 3 >
+< h_scale 0.18 >
+< v_scale 0.24 >
+< brightness 1 >
+< green_threshold 1.5 >
+>
+
+
+>

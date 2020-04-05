@@ -1,0 +1,2064 @@
+< SUPERCARS3_CIRCUIT
+ < nb_laps 5 >
+ < missed_checkpoint_tolerance 0 >
+ < control-points
+  < nb_points 121 >
+  < point
+   < name 531 >
+   < x 305 >
+   < y 228 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 532 >
+   < x 304 >
+   < y 298 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 533 >
+   < x 231 >
+   < y 297 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 534 >
+   < x 230 >
+   < y 228 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 535 >
+   < x 375 >
+   < y 229 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 536 >
+   < x 380 >
+   < y 229 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 537 >
+   < x 380 >
+   < y 298 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 538 >
+   < x 375 >
+   < y 298 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 539 >
+   < x 504 >
+   < y 229 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 540 >
+   < x 585 >
+   < y 298 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 541 >
+   < x 105 >
+   < y 297 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 542 >
+   < x 59 >
+   < y 228 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 543 >
+   < x 35 >
+   < y 240 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 544 >
+   < x 22 >
+   < y 256 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 545 >
+   < x 105 >
+   < y 308 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 546 >
+   < x 21 >
+   < y 346 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 547 >
+   < x 31 >
+   < y 366 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 548 >
+   < x 50 >
+   < y 377 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 549 >
+   < x 105 >
+   < y 377 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 550 >
+   < x 223 >
+   < y 377 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 551 >
+   < x 274 >
+   < y 377 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 552 >
+   < x 297 >
+   < y 365 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 553 >
+   < x 304 >
+   < y 345 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 554 >
+   < x 223 >
+   < y 217 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 555 >
+   < x 223 >
+   < y 150 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 556 >
+   < x 274 >
+   < y 149 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 557 >
+   < x 295 >
+   < y 164 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 558 >
+   < x 440 >
+   < y 95 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 559 >
+   < x 362 >
+   < y 92 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 560 >
+   < x 529 >
+   < y 92 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 561 >
+   < x 365 >
+   < y 144 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 562 >
+   < x 389 >
+   < y 169 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 563 >
+   < x 502 >
+   < y 169 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 564 >
+   < x 529 >
+   < y 146 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 565 >
+   < x 541 >
+   < y 221 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 566 >
+   < x 97 >
+   < y 142 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 567 >
+   < x 102 >
+   < y 150 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 568 >
+   < x 97 >
+   < y 96 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 569 >
+   < x 106 >
+   < y 89 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 570 >
+   < x 52 >
+   < y 218 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 571 >
+   < x 21 >
+   < y 190 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 574 >
+   < x 28 >
+   < y 39 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 575 >
+   < x 45 >
+   < y 24 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 576 >
+   < x 412 >
+   < y 23 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 577 >
+   < x 430 >
+   < y 38 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 578 >
+   < x 440 >
+   < y 54 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 579 >
+   < x 453 >
+   < y 56 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 580 >
+   < x 464 >
+   < y 36 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 581 >
+   < x 479 >
+   < y 22 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 582 >
+   < x 590 >
+   < y 23 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 583 >
+   < x 605 >
+   < y 34 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 584 >
+   < x 616 >
+   < y 54 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 585 >
+   < x 618 >
+   < y 266 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 586 >
+   < x 607 >
+   < y 286 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 587 >
+   < x 447 >
+   < y 104 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 588 >
+   < x 453 >
+   < y 96 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 589 >
+   < x 539 >
+   < y 90 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 590 >
+   < x 542 >
+   < y 100 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 591 >
+   < x 531 >
+   < y 229 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 592 >
+   < x 21 >
+   < y 61 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 593 >
+   < x 34 >
+   < y 207 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 594 >
+   < x 102 >
+   < y 217 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 595 >
+   < x 80 >
+   < y 217 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 596 >
+   < x 223 >
+   < y 308 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 597 >
+   < x 95 >
+   < y 303 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 598 >
+   < x 304 >
+   < y 320 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 599 >
+   < x 305 >
+   < y 180 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 600 >
+   < x 305 >
+   < y 202 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 603 >
+   < x 77 >
+   < y 267 >
+   < resume yes >
+   < car_start no >
+  >
+  < point
+   < name 604 >
+   < x 63 >
+   < y 291 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 605 >
+   < x 65 >
+   < y 327 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 606 >
+   < x 90 >
+   < y 346 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 607 >
+   < x 115 >
+   < y 344 >
+   < resume yes >
+   < car_start no >
+  >
+  < point
+   < name 608 >
+   < x 233 >
+   < y 342 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 609 >
+   < x 258 >
+   < y 332 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 610 >
+   < x 269 >
+   < y 309 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 611 >
+   < x 268 >
+   < y 216 >
+   < resume yes >
+   < car_start no >
+  >
+  < point
+   < name 612 >
+   < x 258 >
+   < y 196 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 613 >
+   < x 216 >
+   < y 181 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 614 >
+   < x 97 >
+   < y 182 >
+   < resume yes >
+   < car_start no >
+  >
+  < point
+   < name 615 >
+   < x 72 >
+   < y 176 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 616 >
+   < x 61 >
+   < y 156 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 617 >
+   < x 61 >
+   < y 90 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 618 >
+   < x 66 >
+   < y 64 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 619 >
+   < x 86 >
+   < y 54 >
+   < resume yes >
+   < car_start no >
+  >
+  < point
+   < name 620 >
+   < x 394 >
+   < y 65 >
+   < resume yes >
+   < car_start no >
+  >
+  < point
+   < name 621 >
+   < x 404 >
+   < y 85 >
+   < resume no >
+   < car_start yes >
+  >
+  < point
+   < name 622 >
+   < x 414 >
+   < y 124 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 623 >
+   < x 431 >
+   < y 136 >
+   < resume no >
+   < car_start yes >
+  >
+  < point
+   < name 624 >
+   < x 480 >
+   < y 117 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 625 >
+   < x 490 >
+   < y 86 >
+   < resume no >
+   < car_start yes >
+  >
+  < point
+   < name 626 >
+   < x 499 >
+   < y 56 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 627 >
+   < x 522 >
+   < y 49 >
+   < resume yes >
+   < car_start no >
+  >
+  < point
+   < name 628 >
+   < x 552 >
+   < y 45 >
+   < resume no >
+   < car_start yes >
+  >
+  < point
+   < name 629 >
+   < x 579 >
+   < y 68 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 630 >
+   < x 583 >
+   < y 85 >
+   < resume yes >
+   < car_start no >
+  >
+  < point
+   < name 631 >
+   < x 582 >
+   < y 236 >
+   < resume no >
+   < car_start yes >
+  >
+  < point
+   < name 632 >
+   < x 577 >
+   < y 253 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 633 >
+   < x 556 >
+   < y 264 >
+   < resume yes >
+   < car_start no >
+  >
+  < point
+   < name 634 >
+   < x 528 >
+   < y 266 >
+   < resume no >
+   < car_start yes >
+  >
+  < point
+   < name 635 >
+   < x 358 >
+   < y 55 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 636 >
+   < x 412 >
+   < y 262 >
+   < resume no >
+   < car_start yes >
+  >
+  < point
+   < name 637 >
+   < x 486 >
+   < y 264 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 638 >
+   < x 582 >
+   < y 197 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 639 >
+   < x 582 >
+   < y 132 >
+   < resume no >
+   < car_start yes >
+  >
+  < point
+   < name 640 >
+   < x 456 >
+   < y 135 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 641 >
+   < x 317 >
+   < y 54 >
+   < resume no >
+   < car_start yes >
+  >
+  < point
+   < name 642 >
+   < x 214 >
+   < y 54 >
+   < resume no >
+   < car_start yes >
+  >
+  < point
+   < name 643 >
+   < x 369 >
+   < y 229 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 644 >
+   < x 369 >
+   < y 298 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 645 >
+   < x 386 >
+   < y 229 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 646 >
+   < x 386 >
+   < y 298 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 647 >
+   < x 355 >
+   < y 262 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 648 >
+   < x 282 >
+   < y 263 >
+   < resume yes >
+   < car_start no >
+  >
+  < point
+   < name 649 >
+   < x 196 >
+   < y 342 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 650 >
+   < x 199 >
+   < y 264 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 651 >
+   < x 59 >
+   < y 133 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 652 >
+   < x 379 >
+   < y 214 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 653 >
+   < x 434 >
+   < y 216 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 654 >
+   < x 470 >
+   < y 197 >
+   < resume no >
+   < car_start no >
+  >
+  < point
+   < name 655 >
+   < x 593 >
+   < y 353 >
+   < resume no >
+   < car_start no >
+  >
+ >
+ < control-zones
+  < nb_zones 35 >
+  < zone
+   < name 1 >
+   < type hidden >
+   < finish_line none >
+   < p1 533 >
+   < p2 534 >
+   < p3 531 >
+   < p4 532 >
+   < boundary
+    < fence yes >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence yes >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 2 >
+   < type top >
+   < finish_line none >
+   < p1 537 >
+   < p2 538 >
+   < p3 535 >
+   < p4 536 >
+   < boundary
+    < fence yes >
+   >
+   < boundary
+    < fence yes >
+   >
+   < boundary
+    < fence yes >
+   >
+   < boundary
+    < fence yes >
+   >
+  >
+  < zone
+   < name 6 >
+   < type normal >
+   < finish_line none >
+   < p1 543 >
+   < p2 542 >
+   < p3 541 >
+   < p4 544 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 7 >
+   < type normal >
+   < finish_line checkpoint >
+   < p1 575 >
+   < p2 576 >
+   < p3 559 >
+   < p4 569 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 8 >
+   < type normal >
+   < finish_line none >
+   < p1 578 >
+   < p2 559 >
+   < p3 576 >
+   < p4 577 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 9 >
+   < type normal >
+   < finish_line none >
+   < p1 578 >
+   < p2 558 >
+   < p3 561 >
+   < p4 559 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 10 >
+   < type normal >
+   < finish_line none >
+   < p1 561 >
+   < p2 558 >
+   < p3 587 >
+   < p4 562 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 11 >
+   < type normal >
+   < finish_line none >
+   < p1 588 >
+   < p2 563 >
+   < p3 562 >
+   < p4 587 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 12 >
+   < type normal >
+   < finish_line none >
+   < p1 579 >
+   < p2 564 >
+   < p3 563 >
+   < p4 588 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 13 >
+   < type normal >
+   < finish_line none >
+   < p1 579 >
+   < p2 580 >
+   < p3 560 >
+   < p4 564 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 14 >
+   < type normal >
+   < finish_line none >
+   < p1 589 >
+   < p2 560 >
+   < p3 580 >
+   < p4 581 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 15 >
+   < type normal >
+   < finish_line none >
+   < p1 589 >
+   < p2 581 >
+   < p3 582 >
+   < p4 583 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 16 >
+   < type normal >
+   < finish_line none >
+   < p1 589 >
+   < p2 583 >
+   < p3 584 >
+   < p4 590 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 17 >
+   < type normal >
+   < finish_line checkpoint >
+   < p1 565 >
+   < p2 590 >
+   < p3 584 >
+   < p4 585 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 18 >
+   < type normal >
+   < finish_line none >
+   < p1 565 >
+   < p2 585 >
+   < p3 586 >
+   < p4 540 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 19 >
+   < type normal >
+   < finish_line none >
+   < p1 565 >
+   < p2 540 >
+   < p3 539 >
+   < p4 591 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 20 >
+   < type normal >
+   < finish_line none >
+   < p1 575 >
+   < p2 569 >
+   < p3 568 >
+   < p4 574 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 21 >
+   < type normal >
+   < finish_line none >
+   < p1 592 >
+   < p2 574 >
+   < p3 568 >
+   < p4 566 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 22 >
+   < type normal >
+   < finish_line none >
+   < p1 571 >
+   < p2 592 >
+   < p3 566 >
+   < p4 567 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 23 >
+   < type normal >
+   < finish_line none >
+   < p1 570 >
+   < p2 593 >
+   < p3 571 >
+   < p4 567 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 24 >
+   < type normal >
+   < finish_line none >
+   < p1 570 >
+   < p2 567 >
+   < p3 594 >
+   < p4 595 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 25 >
+   < type normal >
+   < finish_line none >
+   < p1 594 >
+   < p2 567 >
+   < p3 555 >
+   < p4 554 >
+   < boundary
+    < fence no >
+    < type slope_top >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type slope_bottom >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 26 >
+   < type normal >
+   < finish_line checkpoint >
+   < p1 550 >
+   < p2 549 >
+   < p3 545 >
+   < p4 596 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type slope_top >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type slope_bottom >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 27 >
+   < type normal >
+   < finish_line none >
+   < p1 541 >
+   < p2 597 >
+   < p3 546 >
+   < p4 544 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 28 >
+   < type normal >
+   < finish_line none >
+   < p1 547 >
+   < p2 546 >
+   < p3 597 >
+   < p4 545 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 29 >
+   < type normal >
+   < finish_line none >
+   < p1 548 >
+   < p2 547 >
+   < p3 545 >
+   < p4 549 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 30 >
+   < type normal >
+   < finish_line none >
+   < p1 550 >
+   < p2 596 >
+   < p3 533 >
+   < p4 551 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 31 >
+   < type normal >
+   < finish_line none >
+   < p1 553 >
+   < p2 552 >
+   < p3 551 >
+   < p4 533 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 32 >
+   < type normal >
+   < finish_line none >
+   < p1 553 >
+   < p2 533 >
+   < p3 532 >
+   < p4 598 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 33 >
+   < type normal >
+   < finish_line none >
+   < p1 556 >
+   < p2 557 >
+   < p3 554 >
+   < p4 555 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 34 >
+   < type normal >
+   < finish_line none >
+   < p1 534 >
+   < p2 554 >
+   < p3 557 >
+   < p4 599 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 35 >
+   < type normal >
+   < finish_line none >
+   < p1 600 >
+   < p2 531 >
+   < p3 534 >
+   < p4 599 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 36 >
+   < type normal >
+   < finish_line none >
+   < p1 645 >
+   < p2 539 >
+   < p3 540 >
+   < p4 646 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 37 >
+   < type normal >
+   < finish_line checkpoint >
+   < p1 542 >
+   < p2 643 >
+   < p3 644 >
+   < p4 541 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+  < zone
+   < name 38 >
+   < type normal >
+   < finish_line normal >
+   < p1 645 >
+   < p2 646 >
+   < p3 644 >
+   < p4 643 >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+   < boundary
+    < fence no >
+    < type normal >
+    < closing_gates no >
+   >
+  >
+ >
+ < control-routes
+  < nb_routes 1 >
+  < route
+   < name 1 >
+   < nb_points 45 >
+   < p1
+    < name 603 >
+    < ambiguous no >
+   >
+   < p2
+    < name 604 >
+    < ambiguous no >
+   >
+   < p3
+    < name 605 >
+    < ambiguous no >
+   >
+   < p4
+    < name 606 >
+    < ambiguous no >
+   >
+   < p5
+    < name 607 >
+    < ambiguous no >
+   >
+   < p6
+    < name 649 >
+    < ambiguous no >
+   >
+   < p7
+    < name 608 >
+    < ambiguous no >
+   >
+   < p8
+    < name 609 >
+    < ambiguous no >
+   >
+   < p9
+    < name 610 >
+    < ambiguous no >
+   >
+   < p10
+    < name 611 >
+    < ambiguous no >
+   >
+   < p11
+    < name 612 >
+    < ambiguous no >
+   >
+   < p12
+    < name 613 >
+    < ambiguous no >
+   >
+   < p13
+    < name 614 >
+    < ambiguous no >
+   >
+   < p14
+    < name 615 >
+    < ambiguous no >
+   >
+   < p15
+    < name 616 >
+    < ambiguous no >
+   >
+   < p16
+    < name 651 >
+    < ambiguous no >
+   >
+   < p17
+    < name 617 >
+    < ambiguous no >
+   >
+   < p18
+    < name 618 >
+    < ambiguous no >
+   >
+   < p19
+    < name 619 >
+    < ambiguous no >
+   >
+   < p20
+    < name 642 >
+    < ambiguous no >
+   >
+   < p21
+    < name 641 >
+    < ambiguous no >
+   >
+   < p22
+    < name 635 >
+    < ambiguous no >
+   >
+   < p23
+    < name 620 >
+    < ambiguous no >
+   >
+   < p24
+    < name 621 >
+    < ambiguous no >
+   >
+   < p25
+    < name 622 >
+    < ambiguous no >
+   >
+   < p26
+    < name 623 >
+    < ambiguous no >
+   >
+   < p27
+    < name 640 >
+    < ambiguous no >
+   >
+   < p28
+    < name 624 >
+    < ambiguous no >
+   >
+   < p29
+    < name 625 >
+    < ambiguous no >
+   >
+   < p30
+    < name 626 >
+    < ambiguous no >
+   >
+   < p31
+    < name 627 >
+    < ambiguous no >
+   >
+   < p32
+    < name 628 >
+    < ambiguous no >
+   >
+   < p33
+    < name 629 >
+    < ambiguous no >
+   >
+   < p34
+    < name 630 >
+    < ambiguous no >
+   >
+   < p35
+    < name 639 >
+    < ambiguous no >
+   >
+   < p36
+    < name 638 >
+    < ambiguous no >
+   >
+   < p37
+    < name 631 >
+    < ambiguous no >
+   >
+   < p38
+    < name 632 >
+    < ambiguous no >
+   >
+   < p39
+    < name 633 >
+    < ambiguous no >
+   >
+   < p40
+    < name 634 >
+    < ambiguous no >
+   >
+   < p41
+    < name 637 >
+    < ambiguous no >
+   >
+   < p42
+    < name 636 >
+    < ambiguous no >
+   >
+   < p43
+    < name 647 >
+    < ambiguous no >
+   >
+   < p44
+    < name 648 >
+    < ambiguous yes >
+    < zone 37 >
+   >
+   < p45
+    < name 650 >
+    < ambiguous no >
+   >
+  >
+ >
+ < lakes
+  < nb_lakes 4 >
+  < seed_point 652 >
+  < seed_point 653 >
+  < seed_point 654 >
+  < seed_point 655 >
+ >
+ < opponent-properties
+  < car_front_weapon_index 0 >
+  < car_rear_weapon_index 1 >
+  < train_engine 1.5 >
+  < train_min_wagons 1 >
+  < train_max_wagons 1 >
+  < train_wait 2000 >
+  < train_offset 0 >
+ >
+>

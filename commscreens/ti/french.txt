@@ -1,0 +1,191 @@
+cs_ti_intro_1 = Cela fait un moment que vous avez passé\nvotre code, mais l'inspecteur\ndu ministère des transports veut vous parler.
+cs_ti_intro_2 = En tant que pilote de course, vous devez connaître\nle code de la route.\nC'est le moment de passer un test, et peut-être\nde gagner quelques points de championnat.
+cs_ti_intro_3 = Voyons si vous pouvez gagner des points\nde championnat en montrant votre connaissance\ndu code de la route.
+
+cs_ti_q_01_question  = Que signifie ce panneau ?
+cs_ti_q_01_bad       = Je ne vois pas, je suis très myope
+cs_ti_q_01_neutral   = Eddie Kidd dans le coin !
+cs_ti_q_01_correct   = Pas de véhicules à moteur
+
+cs_ti_q_02_question  = Que signifie ce panneau ?
+cs_ti_q_02_bad       = Peintres de panneaux en grève
+cs_ti_q_02_neutral   = Neige épaisse.
+cs_ti_q_02_correct   = Circulation interdite.
+
+cs_ti_q_03_question  = Que signifie ce panneau ?
+cs_ti_q_03_bad       = Route étroite
+cs_ti_q_03_neutral   = Girafes interdites
+cs_ti_q_03_correct   = Hauteur maximum
+
+cs_ti_q_04_question  = Que signifie ce panneau ?
+cs_ti_q_04_bad       = Les routes se rejoignent
+cs_ti_q_04_neutral   = Zone Valstar
+cs_ti_q_04_correct   = La route se rétrécit des deux côtés
+
+cs_ti_q_05_question  = Que signifie ce panneau ?
+cs_ti_q_05_bad       = Totem
+cs_ti_q_05_neutral   = Cactus
+cs_ti_q_05_correct   = Route prioritaire
+
+cs_ti_q_06_question  = Que signifie ce panneau ?
+cs_ti_q_06_bad       = Course de 4x4 en descente
+cs_ti_q_06_neutral   = Route déformée
+cs_ti_q_06_correct   = Danger - chutes de pierres
+
+cs_ti_q_07_question  = Que signifie ce panneau ?
+cs_ti_q_07_bad       = Devinez ce qui va se passer !
+cs_ti_q_07_neutral   = BOUH !
+cs_ti_q_07_correct   = Danger !
+
+cs_ti_q_08_question  = Que signifie ce panneau ?
+cs_ti_q_08_bad       = Risque d'orage.
+cs_ti_q_08_neutral   = Centrale électrique.
+cs_ti_q_08_correct   = Cable électrique en hauteur.
+
+cs_ti_q_09_question  = Que signifie ce panneau ?
+cs_ti_q_09_bad       = Route sinueuse.
+cs_ti_q_09_neutral   = Risque de conducteurs ivres.
+cs_ti_q_09_correct   = Route glissante.
+
+cs_ti_q_10_question  = Que signifie ce panneau ?
+cs_ti_q_10_bad       = Faites le tour.
+cs_ti_q_10_neutral   = Manège enchanté.
+cs_ti_q_10_correct   = Rond-point.
+
+cs_ti_q_11_question  = Que signifie ce panneau ?
+cs_ti_q_11_bad       = Serrer à gauche.
+cs_ti_q_11_neutral   = Tourner à droite.
+cs_ti_q_11_correct   = Tourner à gauche.
+
+cs_ti_q_12_question  = Que signifie ce panneau ?
+cs_ti_q_12_bad       = Accélérez.
+cs_ti_q_12_neutral   = Restez dans la voie.
+cs_ti_q_12_correct   = Sens unique.
+
+cs_ti_q_13_question  = Quelle est la distance moyenne pour s'arrêter à 110km/h
+cs_ti_q_13_bad       = 30 mètres
+cs_ti_q_13_neutral   = Ca dépend dans quoi on se crashe !
+cs_ti_q_13_correct   = 96 mètres
+
+cs_ti_q_14_question  = Quelle est la procédure correcte pour tourner ?
+cs_ti_q_14_bad       = Rétro, frein, cligno, manoeuvre.
+cs_ti_q_14_neutral   = Manoeuvre, frein, crash, hôpital.
+cs_ti_q_14_correct   = Rétro, cligno, frein, manoeuvre.
+
+cs_ti_q_15_question  = Si quelque chose tombe du véhicule sur\nl'autoroute, que devez-vous faire ?
+cs_ti_q_15_bad       = Laisser tomber.
+cs_ti_q_15_neutral   = Le faire sauter avec un missile arrière.
+cs_ti_q_15_correct   = S'arrêter en sécurité et enlever la pièce.
+
+cs_ti_q_16_question  = Si vous êtes coincé derrière un véhicule lent\nque devez-vous faire ?
+cs_ti_q_16_bad       = Dépasser tout de suite.
+cs_ti_q_16_neutral   = Klaxonner jusqu'à ce qu'il vous laisse passer
+cs_ti_q_16_correct   = Le faire sauter avec un missile frontal.
+
+cs_ti_q_17_question  = Que faire si vous arrivez le premier\nsur un lieu d'accident ?
+cs_ti_q_17_bad       = S'allonger sur la route et faire semblant d'être blessé.
+cs_ti_q_17_neutral   = Récupérer les roues, feux, etc. des voitures endommagées.
+cs_ti_q_17_correct   = Appeler les services d'urgence et attendre.
+
+cs_ti_q_18_question  = Quelle est la limite de vitesse d'une\nvoiture en ville ?
+cs_ti_q_18_bad       = En dessous de 110km/h.
+cs_ti_q_18_neutral   = Au dessus de 50km/h.
+cs_ti_q_18_correct   = Au dessous de 50km/h.
+
+cs_ti_q_19_question  = Donnez un exemple où il ne faut pas\ndépasser un autre véhicule.
+cs_ti_q_19_bad       = Quand l'autre véhicule a des missiles arrière !
+cs_ti_q_19_neutral   = Quand l'autre véhicule peut aller plus vite.
+cs_ti_q_19_correct   = En côte ou dans un virage.
+
+cs_ti_q_20_question  = Que faire si vous faites marche arrière et\nqu'une autre voiture arrive ?
+cs_ti_q_20_bad       = Continuer, avec prudence.
+cs_ti_q_20_neutral   = Faire demi-tour sur le champ.
+cs_ti_q_20_correct   = S'arrêter et attendre qu'elle passe.
+
+cs_ti_q_21_question  = Un agent de la circulation vous met une amende\npour stationnement interdit. Que faites vous ?
+cs_ti_q_21_bad       = Crier au scandale
+cs_ti_q_21_neutral   = Sourire gentiment.
+cs_ti_q_21_correct   = Tirer tous les missiles restants.
+
+cs_ti_q_22_question  = Dans quelle voie devez-vous être en arrivant\ndans un rond-point si vous voulez aller tout droit
+cs_ti_q_22_bad       = La voie de son maître.
+cs_ti_q_22_neutral   = La voie de gauche.
+cs_ti_q_22_correct   = La voie de droite.
+
+cs_ti_q_23_question  = Pourquoi les poulets traversent la route ?
+cs_ti_q_23_bad       = Pour une raison idiote.
+cs_ti_q_23_neutral   = Ils sont sur un train.
+cs_ti_q_23_correct   = Pour aller de l'autre côté
+
+cs_ti_q_24_question  = Que faire quand vous arrivez près d'un passage à niveau\net qu'un train doit passer ?
+cs_ti_q_24_bad       = Prier !
+cs_ti_q_24_neutral   = Sauter par-dessus le train.
+cs_ti_q_24_correct   = Ne pas s'inquiéter, le train aura du retard !
+
+cs_ti_q_25_question  = Quelle est la distance de freinage minimum\nà 90 km/h ?
+cs_ti_q_25_bad       = 60 mêtres.
+cs_ti_q_25_neutral   = 100 mêtres.
+cs_ti_q_25_correct   = 80 mêtres.
+
+cs_ti_q_26_question  = Que faire si vos freins lâchent ?
+cs_ti_q_26_bad       = Tirer le frein à main le plus fort possible.
+cs_ti_q_26_neutral   = Se diriger vers quelque chose de mou.
+cs_ti_q_26_correct   = Utiliser les vitesses et le frein à main pour ralentir.
+
+cs_ti_q_27_question  = Pouvez-vous lire le numéro de ma plaque\nà travers la fenêtre ?
+cs_ti_q_27_bad       = YMZ 914 Y.
+cs_ti_q_27_neutral   = BRA 976.
+cs_ti_q_27_correct   = 967 BNE 31.
+
+cs_ti_q_28_question  = Quelle doit être la pression des pneus de la\nplupart des voitures ?
+cs_ti_q_28_bad       = dans les 10 bars
+cs_ti_q_28_neutral   = dans les 30 bars.
+cs_ti_q_28_correct   = dans les 2 bars.
+
+cs_ti_q_29_question  = Sur une propulsion, les roues arrière\nse bloquent et dérapent. Que faire ?
+cs_ti_q_29_bad       = Freiner plus fort.
+cs_ti_q_29_neutral   = Tourner hors du virage.
+cs_ti_q_29_correct   = Tourner dans le virage.
+
+cs_ti_q_30_question  = En arrivant sur un virage à droite sans \nvisibilité, comment doit être placé le véhicule ?
+cs_ti_q_30_bad       = Le plus près possible de la bordure.
+cs_ti_q_30_neutral   = De l'autre côté de la route.
+cs_ti_q_30_correct   = Près de la ligne centrale de la route.
+
+
+cs_ti_q_31_question  = Que signifie ce panneau ?
+cs_ti_q_31_bad       = Nettoyage de voiture
+cs_ti_q_31_neutral   = Spectacle de L'Homme qui tombe à pic
+cs_ti_q_31_correct   = Danger: quai ou berge
+
+cs_ti_q_32_question  = Que signifie ce panneau ?
+cs_ti_q_32_bad       = feu d'artifice interdit
+cs_ti_q_32_neutral   = tir de missile interdit
+cs_ti_q_32_correct   = pas d'explosifs
+
+
+cs_ti_v_0 = Votre connaissance du code est catastrophique.\n5 points vont vous être retirés.
+
+cs_ti_v_1 = Vous mériteriez d'être radié. \nJe vous ferai enlever 4 points.
+
+cs_ti_v_2 = Vous semblez avoir beaucoup oublié depuis\nvotre test. Je vous enlève 3 points.
+
+cs_ti_v_3 = Je suis déçu, j'attendais mieux de quelqu'un comme vous.\nVotre amende est de 2 points.
+
+cs_ti_v_4 = Ce n'est pas parce que vous êtes un pilote que\nvous avez le droit de mal connaître le code.\nVous perdez un point.
+
+cs_ti_v_5 = Bon, je ne suis pas satisfait de vos réponses\nmais on en reste là pour l'instant. Au revoir.
+
+cs_ti_v_6 = Réponses encourageantes. Vous avez gagné 1\npoint supplémentaire.
+
+cs_ti_v_7 = Pas mal. Vous semblez connaître le code de la\nroute. Je vous appuierai pour 2 points.
+
+cs_ti_v_8 = Bien joué. D'après ce que je vois, vous avez gagné\n3 points.
+
+cs_ti_v_9 = Très bien. Très bonne connaissance.\nJe vous accorde 4 points.
+
+cs_ti_v_10 = Parfait. Vous avez répondu à toutes les questions\ncorrectement. Vous recevez 5 points de bonus.
+
+signs/offset_junction = signs/route_prioritaire
+signs/maximum_height = signs/hauteur_maximale
+signs/roudabout = signs/rond_point

@@ -1,0 +1,167 @@
+cs_sol_intro_1 = Vous êtes chez le notaire,\nréfléchissant à ce qu'il faudrait dire pour récupérer\nde l'argent du patrimoine de votre Grand Oncle.
+
+cs_sol_intro_2 = Votre horriblement riche Grand Oncle Horace\nest décédé et il se pourrait bien que vous\nsoyez sur le testament.\nArriverez-vous à avoir de l'argent ?
+
+cs_sol_intro_3 = Votre Grand Oncle était certainement excentrique,\nmais que pouvez-vous bien inventer\npour récupérer de l'argent de son héritage ?
+
+cs_sol_q_01_question = Comment comptez-vous dépenser l'argent ?
+cs_sol_q_01_bad      = Je donnerai la plupart aux bonnes oeuvres.
+cs_sol_q_01_neutral  = Avec des excellents jeux de MAGNETIC FIELDS.
+cs_sol_q_01_correct  = En poursuivant ma carrière de pilote de course d'élite.
+
+cs_sol_q_02_question = Est-ce que cet argent est vital pour vous permettre de progresser\ndans la course automobile ?
+cs_sol_q_02_bad      = Non, j'en ai juste besoin pour picoler.
+cs_sol_q_02_neutral  = Ce serait utile au cas où je renverse quelqu'un.
+cs_sol_q_02_correct  = Oui, il me reste très peu d'argent !
+
+cs_sol_q_03_question = Est-ce votre premier héritage?
+cs_sol_q_03_bad      = J'en ai un par semaine. On s'habitue.
+cs_sol_q_03_neutral  = Non, j'ai buté toute ma famille pour le pognon.
+cs_sol_q_03_correct  = Oui !
+                       
+cs_sol_q_04_question = Le défunt désirerait que vous donniez l'argent au foyer\ndes Lemmings orphelins.
+cs_sol_q_04_bad      = Pas question! Je ne supporte par les animaux à fourrure !
+cs_sol_q_04_neutral  = Charité bien ordonnée commence par moi-même.
+cs_sol_q_04_correct  = Je préfèrerais 'Les Chats Contre La Bombe'
+
+cs_sol_q_05_question = Mes honoraires seront de 10 pourcent de l'héritage\nCela vous convient ?
+cs_sol_q_05_bad      = C'est beaucoup trop! Je vous en donne 5.
+cs_sol_q_05_neutral  = Prenez-en 15 pour vous témoinger ma reconnaissance.
+cs_sol_q_05_correct  = Oui, ce sera très bien.
+                       
+cs_sol_q_06_question = Comment votre Grand Oncle est mort exactement ?
+cs_sol_q_06_bad      = Je ne sais pas, la police se perd en conjectures.
+cs_sol_q_06_neutral  = Un fou furieux a tiré un missile sur sa voiture....
+cs_sol_q_06_correct  = Une crise cardiaque quand il m'a vu sur le testament.
+                       
+cs_sol_q_07_question = Les notaires ne sont pas si nuls qu'avant.
+cs_sol_q_07_bad      = Pas pire que les agents immobiliers de toute façon.
+cs_sol_q_07_neutral  = Et ils ne sont pas aussi ennuyeux que les comptables.
+cs_sol_q_07_correct  = Je suis plutôt d'accord !
+                       
+cs_sol_q_08_question = Quand allez-vous régler ma facture ?
+cs_sol_q_08_bad      = Je ne vais rien payer du tout.
+cs_sol_q_08_neutral  = Quand l'océan Pacifique gèlera.
+cs_sol_q_08_correct  = Quand je récupèrerai mon fric !
+
+cs_sol_q_09_question = Vous connaissiez bien votre Grand Oncle ?
+cs_sol_q_09_bad      = Pas vraiment, mais je crois qu'il m'aimait bien.
+cs_sol_q_09_neutral  = Oui, nous étions assez proches.
+cs_sol_q_09_correct  = Nous étions comme des frères, snif.
+                       
+cs_sol_q_10_question = Comment votre Grand Oncle s'appelait, déjà?
+cs_sol_q_10_bad      = Roger.
+cs_sol_q_10_neutral  = Alfred.
+cs_sol_q_10_correct  = Horace.
+                       
+cs_sol_q_11_question = Pouvez-vous décrire votre Grand Oncle ?
+cs_sol_q_11_bad      = Un grand homme mince qui ne souriait jamais.
+cs_sol_q_11_neutral  = Un petit homme rondouillard et jovial.
+cs_sol_q_11_correct  = Mort.
+                       
+cs_sol_q_12_question = Apparamment votre Grand Oncle adorait les chats.\nEt vous ?
+cs_sol_q_12_bad      = Non, ils me donnent des allergies.
+cs_sol_q_12_neutral  = Oui, j'en ai toujours 2 ou 3 sur moi.
+cs_sol_q_12_correct  = Oui, ils sont si mignons !
+
+cs_sol_q_13_question = Quand avez-vous vu votre Grand Oncle pour la dernière fois ?
+cs_sol_q_13_bad      = Mardi dernier, au bar.
+cs_sol_q_13_neutral  = En l'an 1452....
+cs_sol_q_13_correct  = Il y a environ six mois.
+                       
+cs_sol_q_14_question = Pouvez-vous prouver votre identité ?
+cs_sol_q_14_bad      = Ma ribambelle de cartes de crédit.
+cs_sol_q_14_neutral  = Mon permis de conduire.
+cs_sol_q_14_correct  = Mon permis de conduire une Lotus.
+                       
+cs_sol_q_15_question = Votre Grand Oncle avait-il d'autres parents ?
+cs_sol_q_15_bad      = J'espère que non !
+cs_sol_q_15_neutral  = Peut-être, mais je ne les connais pas.
+cs_sol_q_15_correct  = Non, je suis sa seule famille !
+                       
+cs_sol_q_16_question = Est-ce qu'une bonne rentrée d'argent changerait votre vie ?
+cs_sol_q_16_bad      = Money Money Moneeeeey...
+cs_sol_q_16_neutral  = Peut-être une ou six nouvelles voitures.
+cs_sol_q_16_correct  = Pas du tout, je resterais moi-même.
+
+cs_sol_q_17_question = Quel était le métier de votre Grand Oncle?
+cs_sol_q_17_bad      = Un pilote de course, comme moi !
+cs_sol_q_17_neutral  = Il était bûcheron !
+cs_sol_q_17_correct  = Il fabriquait des bidules.
+                       
+cs_sol_q_18_question = Est-ce que votre Grand Oncle fumait ?
+cs_sol_q_18_bad      = Il fumait la pipe !
+cs_sol_q_18_neutral  = Oui, il fumait comme un poisson ?
+cs_sol_q_18_correct  = Non, il détestait ça !
+                       
+cs_sol_q_19_question = Votre Grand Oncle était intéressé par\nvotre carrière ?
+cs_sol_q_19_bad      = Non, il détestait les sports mécaniques.
+cs_sol_q_19_neutral  = Ouais, il venait voir toutes mes courses.
+cs_sol_q_19_correct  = Pas vraiment, mais il regardait à l'occasion.
+                       
+cs_sol_q_20_question = Quel age avait votre Grand Oncle quand il est mort ?
+cs_sol_q_20_bad      = Environ 70 ans.
+cs_sol_q_20_neutral  = Environ 90 ans.
+cs_sol_q_20_correct  = Environ 80 ans.
+
+cs_sol_q_21_question = Cela vous dirait de zapper le reste de la famille\net de faire 50-50 avec moi ?
+cs_sol_q_21_bad      = Euh, on a le droit ?
+cs_sol_q_21_neutral  = Ca me semble pas mal, ma belle !
+cs_sol_q_21_correct  = Vous plaisantez !
+                       
+cs_sol_q_22_question = Votre Grand Oncle avait des frères et soeurs ?
+cs_sol_q_22_bad      = Non, aucun !
+cs_sol_q_22_neutral  = Oui, il vient d'une portée de 12.
+cs_sol_q_22_correct  = Juste mon grand-père !
+                       
+cs_sol_q_23_question = Selon le testament, vous ne pourrez toucher l'argent\nqu'à 80 ans.
+cs_sol_q_23_bad      = Les boules !
+cs_sol_q_23_neutral  = Je ne fais pas du tout mes 80 ans.
+cs_sol_q_23_correct  = Eehhh, grrr, où est ma canne !
+                       
+cs_sol_q_24_question = Cela va prendre quelques mois avant que vous ayez\nl'argent, à moins de me payer plus.
+cs_sol_q_24_bad      = Va mourir !
+cs_sol_q_24_neutral  = D'accord, j'en ai vraiment besoin !
+cs_sol_q_24_correct  = Je suis sûr que l'on peut négocier....
+
+cs_sol_q_25_question = Votre Grand Oncle était un pacifiste, aussi vous devez\npromettre de ne pas acheter des missiles avec l'argent....
+cs_sol_q_25_bad      = Vous dites ça pour rigoler....
+cs_sol_q_25_neutral  = OK, d'accord, je promets....
+cs_sol_q_25_correct  = Parole de scout....
+                       
+cs_sol_q_26_question = Votre Grand Oncle était sobre.\nVous buvez ?
+cs_sol_q_26_bad      = Pas du tout, c'est une sale manie.
+cs_sol_q_26_neutral  = Un verre de vin dans des occasions spéciales.
+cs_sol_q_26_correct  = EEEEH! Envoie le cubi ! Glou-glou ! Beeeuuaaah !
+                       
+cs_sol_q_27_question = Que pensez-vous de votre\nGrand Oncle ?
+cs_sol_q_27_bad      = Un sale gredin pourri.
+cs_sol_q_27_neutral  = Oh, c'était le meilleur....
+cs_sol_q_27_correct  = Ca dépend de ce qu'il m'a laissé !
+                       
+cs_sol_q_28_question = Je viens juste de faire redécorer la pièce.\nQu'en pensez-vous ?
+cs_sol_q_28_bad      = Beurk.
+cs_sol_q_28_neutral  = Subtil choix de couleurs....
+cs_sol_q_28_correct  = Velwuqual.
+
+cs_sol_q_29_question = Pourquoi votre Grand Oncle vous laisserait\nquelque chose dans son testament ?
+cs_sol_q_29_bad      = Je n'en ai aucune idée.
+cs_sol_q_29_neutral  = Je suis son petit neveu favori.
+cs_sol_q_29_correct  = Parce que je l'ai falsifié !
+
+cs_sol_q_30_question = Le défunt voudrait que vous donniez de l'argent\nà des informaticiens affamés.
+cs_sol_q_30_bad      = Non, ils sont tous millionaires.
+cs_sol_q_30_neutral  = D'accord, ils doivent être accablés par la misère.
+cs_sol_q_30_correct  = Hmmm, j'achèterai peut-être un jeu ou deux.
+
+cs_sol_v_0 = Bien, je suis désolée, mais je ne crois pas\nqu'il y ait d'argent pour vous. Au revoir.
+cs_sol_v_1 = Ah, c'est ici dans le testament. Donnez à mon neveu\nfou de course 500 euros.
+cs_sol_v_2 = Bien, selon le testament, vous aurez\n1000 euros. Ne les dépensez pas d'un coup !
+cs_sol_v_3 = Ok donc, selon le testament, vous avez droit à une\npart de 1500 euros. Salut.
+cs_sol_v_4 = Très bien, frais de notaire déduits\nvous allez toucher 2000 euros.
+cs_sol_v_5 = D'accord. Le testament vous octroie 2500 euros\npour poursuivre votre carrière....\nC'est vrai qu'il fumait comme un poisson ?
+cs_sol_v_6 = Voilà voilà, vous semblez être la bonne\npersonne, voici votre part: 3000 euros.
+cs_sol_v_7 = Il apparaît que votre Grand Oncle vous a\ncédé la somme de 3500 euros.
+cs_sol_v_8 = Je suis heureuse de vous annoncer que selon les dernières volontés\nde votre Grand Oncle vous allez toucher 4000 euros.
+cs_sol_v_9 = Bon, vous êtes bien celui que vous prétendez\nêtre, voilà votre héritage: 4500 euros.
+cs_sol_v_10 = Bien. Il semble que vous avez droit à l'intégralité du\npatrimoine de votre Grand Oncle: 5000 euros.

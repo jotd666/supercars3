@@ -1,0 +1,17 @@
+< CAR_DESCRIPTION
+< name Audi%20TT >
+< geometry
+< left 10 >
+< right 230 >
+< top 72 >
+< bottom 166 >
+< h_margin 3 >
+< v_margin 0 >
+< h_scale 0.18 >
+< v_scale 0.28 >
+< brightness 1.4 >
+< green_threshold 1.5 >
+>
+
+
+>

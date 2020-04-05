@@ -1,0 +1,167 @@
+cs_sol_intro_1 = You sit in the solicitor's office,\nthinking of what to say to try to get some\nmoney from the estate of your Great Uncle.
+
+cs_sol_intro_2 = Your stinkingly rich Great Uncle Horatio\nhas died and it looks as if you may\nbe in the will. Can you get any money ?
+
+cs_sol_intro_3 = Your Great Uncle was certainly eccentric,\nbut just what will you have to say, to\nget some much-needed cash from his will ?
+
+cs_sol_q_01_question = What do you intend spending the money on ?
+cs_sol_q_01_bad      = I will give most of the cash to charity.
+cs_sol_q_01_neutral  = Some brilliant games by MAGNETIC FIELDS.
+cs_sol_q_01_correct  = Furthering my career as a top racing driver.
+
+cs_sol_q_02_question = Is this money essential for you to progress\nin car racing ?
+cs_sol_q_02_bad      = No, I need it for beer.
+cs_sol_q_02_neutral  = It would be handy in case I hit somebody.
+cs_sol_q_02_correct  = Yes, I have very little money left !
+
+cs_sol_q_03_question = Is this the first inheritance you have\ncome into ?
+cs_sol_q_03_bad      = It happens every week. I get used to it.
+cs_sol_q_03_neutral  = No, I've killed all my relatives for money.
+cs_sol_q_03_correct  = Yes !
+                       
+cs_sol_q_04_question = The deceased wants you to give the\nmoney to the home for orphaned lemmings.
+cs_sol_q_04_bad      = No way! I can't STAND cute furry animals !
+cs_sol_q_04_neutral  = The only charity I'm interested in is ME.
+cs_sol_q_04_correct  = I'd prefer 'Cats Against The Bomb'.
+
+cs_sol_q_05_question = My fees will be 10 percent of the\ninheritance. Is that acceptable ?
+cs_sol_q_05_bad      = That's far too much! You can have 5.
+cs_sol_q_05_neutral  = Take 15 as a sign of my appreciation.
+cs_sol_q_05_correct  = Yes, that will be fine.
+                       
+cs_sol_q_06_question = How exactly did your Great Uncle die ?
+cs_sol_q_06_bad      = I don't know, the police have got it wrong.
+cs_sol_q_06_neutral  = Some lunatic missiled his car....
+cs_sol_q_06_correct  = A heart attack when finding I was in the will.
+                       
+cs_sol_q_07_question = Solicitors aren't as bad as they're\nmade out to be.
+cs_sol_q_07_bad      = Not as bad as estate agents, anyway.
+cs_sol_q_07_neutral  = And they're not as boring as accountants.
+cs_sol_q_07_correct  = Oh, I quite agree !
+                       
+cs_sol_q_08_question = When are you going to pay my bill ?
+cs_sol_q_08_bad      = I'm not going to pay it.
+cs_sol_q_08_neutral  = When the Pacific Ocean freezes over.
+cs_sol_q_08_correct  = When I get my money !
+
+cs_sol_q_09_question = Did you know your Great Uncle well ?
+cs_sol_q_09_bad      = Not really, but I think he liked me.
+cs_sol_q_09_neutral  = Oh yes, we were fairly close.
+cs_sol_q_09_correct  = We were like brothers.... sob sob.
+                       
+cs_sol_q_10_question = What did you say your Great Uncle's\nfirst name was ?
+cs_sol_q_10_bad      = Bulgaria.
+cs_sol_q_10_neutral  = Alfred.
+cs_sol_q_10_correct  = Horatio.
+                       
+cs_sol_q_11_question = Could you describe your Great Uncle ?
+cs_sol_q_11_bad      = He was a tall thin man who never smiled.
+cs_sol_q_11_neutral  = He was a short fat jolly man.
+cs_sol_q_11_correct  = Dead.
+                       
+cs_sol_q_12_question = Apparantly your Great Uncle was a lover\nof cats. Do you like cats ?
+cs_sol_q_12_bad      = No, they give me furballs.
+cs_sol_q_12_neutral  = Sure, I always carry a few on me.
+cs_sol_q_12_correct  = Yes, they're so cute !
+
+cs_sol_q_13_question = When did you last see your Great Uncle ?
+cs_sol_q_13_bad      = Last Tuesday, in the pub.
+cs_sol_q_13_neutral  = Oh about 1452....
+cs_sol_q_13_correct  = About six months ago.
+                       
+cs_sol_q_14_question = Have you any proof of your identity ?
+cs_sol_q_14_bad      = My string of credit cards.
+cs_sol_q_14_neutral  = My drivers' licence.
+cs_sol_q_14_correct  = My Lotus Licence ?
+                       
+cs_sol_q_15_question = Does your Great Uncle have any other\nrelatives ?
+cs_sol_q_15_bad      = I hope not !
+cs_sol_q_15_neutral  = Possibly, but I don't know them.
+cs_sol_q_15_correct  = No, I'm the next of kin !
+                       
+cs_sol_q_16_question = Would a large windfall change your life ?
+cs_sol_q_16_bad      = Money Money Moneeeeey....
+cs_sol_q_16_neutral  = Maybe a new car or six....
+cs_sol_q_16_correct  = Not one bit, I'd still be me.
+
+cs_sol_q_17_question = Can you tell me what your Great Uncle's\ntrade was ?
+cs_sol_q_17_bad      = A racing driver, like me !
+cs_sol_q_17_neutral  = He was a lumberjack !
+cs_sol_q_17_correct  = A widget-maker.
+                       
+cs_sol_q_18_question = Did your Great Uncle smoke ?
+cs_sol_q_18_bad      = He used to smoke a pipe !
+cs_sol_q_18_neutral  = Oh yes, he smoked like a fish ?
+cs_sol_q_18_correct  = No, he detested it !
+                       
+cs_sol_q_19_question = Was your Great Uncle interested in\nyour career ?
+cs_sol_q_19_bad      = No, he hated motor sports.
+cs_sol_q_19_neutral  = Yeah, he came to watch my every race.
+cs_sol_q_19_correct  = Not really, but he did watch occasionally.
+                       
+cs_sol_q_20_question = How old was your Great Uncle when\nhe died ?
+cs_sol_q_20_bad      = About 70.
+cs_sol_q_20_neutral  = About 90.
+cs_sol_q_20_correct  = About 80.
+
+cs_sol_q_21_question = How about if we forget all the other\nrelatives and split the cash 50-50 ?
+cs_sol_q_21_bad      = Errrm, is that legal ?
+cs_sol_q_21_neutral  = Sounds good to me, babe !
+cs_sol_q_21_correct  = You must be joking !
+                       
+cs_sol_q_22_question = Did your Great Uncle have any brothers\nor sisters ?
+cs_sol_q_22_bad      = No, none !
+cs_sol_q_22_neutral  = Oh, yes, he was in a litter of 12.
+cs_sol_q_22_correct  = Just my grandfather !
+                       
+cs_sol_q_23_question = Under the terms of the will, you can't\ntouch the money until you are 80 !
+cs_sol_q_23_bad      = Rats !
+cs_sol_q_23_neutral  = I'm very young looking for a 80-year-old.
+cs_sol_q_23_correct  = Groan, creak, where's my walking stick !
+                       
+cs_sol_q_24_question = There may be a delay of a few months in\ngetting the cash, unless you pay me more !
+cs_sol_q_24_bad      = Drop dead !
+cs_sol_q_24_neutral  = Sure, I'm getting desperate !
+cs_sol_q_24_correct  = I'm sure we can negotiate....
+
+cs_sol_q_25_question = Your Great Uncle was a pacifist, so you must\npromise not to spend the cash on missiles....
+cs_sol_q_25_bad      = You must be kidding....
+cs_sol_q_25_neutral  = O.K. I promise....
+cs_sol_q_25_correct  = Scout's honour....
+                       
+cs_sol_q_26_question = Your Great Uncle was a tee-totaller. Do you\ndrink at all ?
+cs_sol_q_26_bad      = Not at all, disgusting habit.
+cs_sol_q_26_neutral  = Just a glass of wine on special occasions.
+cs_sol_q_26_correct  = WHEEEE! Roll out the barrel ! Wibble ! Barf !
+                       
+cs_sol_q_27_question = What was your opinion of your\nGreat Uncle ?
+cs_sol_q_27_bad      = A dirty rotten scoundrel.
+cs_sol_q_27_neutral  = Oh, he was the best....
+cs_sol_q_27_correct  = That depends on how much I get !
+                       
+cs_sol_q_28_question = I've just had this room re-decorated.\nWhat do you think ?
+cs_sol_q_28_bad      = Yeuccck.
+cs_sol_q_28_neutral  = A charming choice of colours....
+cs_sol_q_28_correct  = Velwuqual.
+
+cs_sol_q_29_question = Why would your Great Uncle leave you any\nmoney in his will ?
+cs_sol_q_29_bad      = I don't really know.
+cs_sol_q_29_neutral  = I'm his favourite great-nephew.
+cs_sol_q_29_correct  = Because I forged it !
+
+cs_sol_q_30_question = The deceased would like you to donate some\nmoney to starving computer programmers....
+cs_sol_q_30_bad      = Nah, they're all millionaires.
+cs_sol_q_30_neutral  = Sure, they must be poverty-stricken.
+cs_sol_q_30_correct  = Hmmm, maybe I'll buy a game or two.
+
+cs_sol_v_0 = Well, I'm very sorry, but it doesn't seem\nthat there is any money for you. Goodbye.
+cs_sol_v_1 = Ah, here it is in the will. Pay my good-for-\nnowt racing mad great nephew 500 pounds.
+cs_sol_v_2 = Well, under the terms of the will, you will\nget 1000 pounds. Dont spend it all in one go !
+cs_sol_v_3 = O.K. then, according to the will, you are\nentitled to a share of 1500 pounds. Bye.
+cs_sol_v_4 = Right then, after inheritance tax and my\nfees, you will receive 2000 pounds.
+cs_sol_v_5 = Alright. The will says that you can have\n2500 pounds to further your career....
+cs_sol_v_6 = Well then, it seems that you are the right\nperson, so here's your share. 3000 pounds.
+cs_sol_v_7 = It appears that your Great Uncle has be-\nqueathed you the sum of 3500 pounds.
+cs_sol_v_8 = I'm glad to say that according to your Great\nUncle's last wishes, you will get 4000 pounds.
+cs_sol_v_9 = Right then, you seem to be who you say you\nare, so here's your inheritance. 4500 pounds.
+cs_sol_v_10 = Well, it seems that you are entitled to your\nGreat Uncles entire estate. 5000 pounds.

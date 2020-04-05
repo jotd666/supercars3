@@ -1,0 +1,165 @@
+cs_rep_intro_1       = Racing cars is a high profile business,\nYou meet a reporter for a quiet drink,\nhoping to make yourself a nice fat fee.
+cs_rep_intro_2       = Time to talk to the press, and maybe\nmake yourself some extra cash in the\nprocess. Let the interview begin....
+cs_rep_intro_3       = Any publicity is good publicity, they\nsay, but can you make some more cash from\nthe local rag answering questions ?
+                      
+cs_rep_q_01_question = How long have you been involved in\nthe racing scene ?
+cs_rep_q_01_bad      = Two hours !
+cs_rep_q_01_neutral  = After I was sacked for writing off my taxi !
+cs_rep_q_01_correct  = I started 10 years ago as a lowly mechanic.
+                      
+cs_rep_q_02_question = Can you give me any juicy details\nabout your personal life ?
+cs_rep_q_02_bad      = Je raconterais n'importe quoi pour un chèque juteux.
+cs_rep_q_02_neutral  = You're not from The Scum are you ?
+cs_rep_q_02_correct  = Dégage !
+                      
+cs_rep_q_03_question = What can you tell me about the\nother drivers ?
+cs_rep_q_03_bad      = Anything at a price !
+cs_rep_q_03_neutral  = We're all one big happy family.
+cs_rep_q_03_correct  = I'm not going to slander my colleagues.
+                      
+cs_rep_q_04_question = Does all the violence on the track\nworry you ?
+cs_rep_q_04_bad      = No, I'm hard as nails me !
+cs_rep_q_04_neutral  = Not if I'm dishing it out !
+cs_rep_q_04_correct  = It's all part of the job.
+                      
+cs_rep_q_05_question = Which news paper do you read ?
+cs_rep_q_05_bad      = I don't bother with the press !
+cs_rep_q_05_neutral  = I can't read, so I get yours !
+cs_rep_q_05_correct  = I read several !
+                      
+cs_rep_q_06_question = What sort of music do you listen\nto in you car ?
+cs_rep_q_06_bad      = Fleetwood Mac.
+cs_rep_q_06_neutral  = Ride Of The Valkyries by Wagner.
+cs_rep_q_06_correct  = Big Country, of course.
+                      
+cs_rep_q_07_question = What do you drive when you are\nnot racing ?
+cs_rep_q_07_bad      = An X reg. Cortina.
+cs_rep_q_07_neutral  = A Renault 5 GT Turbo.
+cs_rep_q_07_correct  = A blue pickup truck.
+                      
+cs_rep_q_08_question = What are your ambitions in racing ?
+cs_rep_q_08_bad      = To get obscenely rich !
+cs_rep_q_08_neutral  = Surviving my next race!
+cs_rep_q_08_correct  = To be world champion !
+                      
+cs_rep_q_09_question = Who's paying for all these drinks ?
+cs_rep_q_09_bad      = Your paper hopefully !
+cs_rep_q_09_neutral  = My generous sponsor !
+cs_rep_q_09_correct  = I'll put them on my slate !
+                      
+cs_rep_q_10_question = Will you do an advert for our paper ?
+cs_rep_q_10_bad      = You must be joking !
+cs_rep_q_10_neutral  = If the money's right !
+cs_rep_q_10_correct  = I'd be proud to !
+                      
+cs_rep_q_11_question = Have you got anything you could give\nus for a competition prize ?
+cs_rep_q_11_bad      = An old steering wheel from my car.
+cs_rep_q_11_neutral  = One of my trophies !
+cs_rep_q_11_correct  = I could take someone for a spin.
+                      
+cs_rep_q_12_question = Can we take a few pictures of you\nin your car ?
+cs_rep_q_12_bad      = I haven't got the time.
+cs_rep_q_12_neutral  = It will cost you more !
+cs_rep_q_12_correct  = No, someone might recognise me !
+                      
+cs_rep_q_13_question = What is the fastest speed you have\ndone in a car ?
+cs_rep_q_13_bad      = I don't have a clue !
+cs_rep_q_13_neutral  = About 213mph.
+cs_rep_q_13_correct  = 237mph in a Vaug Interceptor.
+                      
+cs_rep_q_14_question = How old were you when you started\ndriving ?
+cs_rep_q_14_bad      = I only started last week !
+cs_rep_q_14_neutral  = I can't say its so long ago.
+cs_rep_q_14_correct  = On my seventeenth birthday !
+                      
+cs_rep_q_15_question = How much money do you make\nin a season ?
+cs_rep_q_15_bad      = More than you !
+cs_rep_q_15_neutral  = Not enough !
+cs_rep_q_15_correct  = LOADSAMONEY !!!
+                      
+cs_rep_q_16_question = Who are your heroes ?
+cs_rep_q_16_bad      = James Hunt, I taught him all I know.
+cs_rep_q_16_neutral  = Barry Norman, and why not ?
+cs_rep_q_16_correct  = Judge Dredd !
+                      
+cs_rep_q_17_question = Have you ever taken drugs ?
+cs_rep_q_17_bad      = The dope I would shoot is Jeremy Beadle.
+cs_rep_q_17_neutral  = I'm stupid, but not that stupid !
+cs_rep_q_17_correct  = No, never !
+                      
+cs_rep_q_18_question = Can I ask you about your love life ?
+cs_rep_q_18_bad      = No !
+cs_rep_q_18_neutral  = How much would you pay ?
+cs_rep_q_18_correct  = My mother told me not to talk to strangers.
+                      
+cs_rep_q_19_question = What would you be if you weren't\na racing driver ?
+cs_rep_q_19_bad      = A traffic warden !
+cs_rep_q_19_neutral  = A taxi driver !
+cs_rep_q_19_correct  = Unemployed !
+                      
+cs_rep_q_20_question = Do you expect to get paid for this\npathetic interview ?
+cs_rep_q_20_bad      = You won't walk out of here if I don't.
+cs_rep_q_20_neutral  = Just pay the bar bill and I'll be happy.
+cs_rep_q_20_correct  = I'm quite happy to do it for publicity.
+                      
+cs_rep_q_21_question = What is your favourite T.V. program ?
+cs_rep_q_21_bad      = Top Gear.
+cs_rep_q_21_neutral  = One Man And His Dog.
+cs_rep_q_21_correct  = The Magic Roundabout !
+                      
+cs_rep_q_22_question = Have you any words of wisdom for\nour younger readers ?
+cs_rep_q_22_bad      = Goo goo goo, ga ga ga !!!
+cs_rep_q_22_neutral  = Act your age, not your shoe size !
+cs_rep_q_22_correct  = Velwuqual !
+                      
+cs_rep_q_23_question = Is it true you have to be mad to\ncompete in modern racing ?
+cs_rep_q_23_bad      = No, just dedicated and courageous.
+cs_rep_q_23_neutral  = It helps to be a little unhinged.
+cs_rep_q_23_correct  = I'm a teapot ! A fish ! A hatstand !
+                      
+cs_rep_q_24_question = Have you ever been injured while\nracing ?
+cs_rep_q_24_bad      = I've got more new parts than the bionic man.
+cs_rep_q_24_neutral  = Just a few cuts and bruises.
+cs_rep_q_24_correct  = Not a scratch !
+                      
+cs_rep_q_25_question = What can you say about all the scandal\nsurrounding the racing scene ?
+cs_rep_q_25_bad      = No comment.
+cs_rep_q_25_neutral  = No comment.
+cs_rep_q_25_correct  = No comment.
+                      
+cs_rep_q_26_question = Would you like another drink ?
+cs_rep_q_26_bad      = A pint of shandy, please !
+cs_rep_q_26_neutral  = I'll have a glass of lemonade, thankyou.
+cs_rep_q_26_correct  = A bottle of Newcastle Brown, please !
+                      
+cs_rep_q_27_question = What are your opinions of the press ?
+cs_rep_q_27_bad      = They hassle me too much !
+cs_rep_q_27_neutral  = I don't mind the publicity !
+cs_rep_q_27_correct  = It's great to have someone interested.
+                      
+cs_rep_q_28_question = Is there any truth in the rumours about a\nfeud between you and another top driver ?
+cs_rep_q_28_bad      = We just don't get on !
+cs_rep_q_28_neutral  = No, it's all a pack of lies.
+cs_rep_q_28_correct  = I'd missile him rather than talk to him !
+                      
+cs_rep_q_29_question = Can you tell me anything about your\nscariest moment when racing ?
+cs_rep_q_29_bad      = No, I was too scared to look !
+cs_rep_q_29_neutral  = No, I'm never scared by anything !
+cs_rep_q_29_correct  = Someone dropped a VW Polo on my head !
+                      
+cs_rep_q_30_question = If you are champion this year, what\nwill you do with the prize money ?
+cs_rep_q_30_bad      = Get staggeringly un-sober.
+cs_rep_q_30_neutral  = Pay my petrol bill !
+cs_rep_q_30_correct  = Blow it all on a party for the press!
+                      
+cs_rep_v_0           = Well, youre not getting a single penny\nfor this interview. Goodbye !
+cs_rep_v_1           = O.K. I see. We should be able to fit a few\nlines in about you, We'll pay you 500 pounds.
+cs_rep_v_2           = Right then, I think we've got enough\nto go on. We'll pay you 1000 pounds.
+cs_rep_v_3           = Quite interesting, but I have to go now.\nYou'll receive our fee of 1500 pounds.
+cs_rep_v_4           = O.K. I've got quite a lot of notes. I'll\nhave to write them up. Here's 2000 pounds.
+cs_rep_v_5           = Right then, that seems about everything...\nYou'll receive our cheque for 2500 pounds.
+cs_rep_v_6           = All right, thanks for the interview. We\nwill be in touch with your 3000 pounds fee.
+cs_rep_v_7           = I'm sure our readers will be enthralled.\nWhen we print, we'll pay you 3500 pounds
+cs_rep_v_8           = Right then, I think that's about it. Our\ncheque is in the post already. 4000 pounds.
+cs_rep_v_9           = That should make very good reading. Look\nforward to getting out 4500 pound cheque.
+cs_rep_v_10          = Marvellous. I think we covered everything. I\nhope you find our 5000 pounds fee useful.

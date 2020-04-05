@@ -1,0 +1,18 @@
+carvcardam	equ	$08
+carvwaldam	equ	$10
+carexpldam	equ	$100
+carmissdam	equ	$180
+carramdam	equ	$180
+gatedamage	equ	$180
+traindamage	equ	$200
+nummissiles	equ	16
+carpower	equ	10000
+
+maxjobcosts	dc.w	400,800,600,400,1000,600,800,1000
+maxcosts	dc.w	400,600,1500,1000,800,500,3000,1000,5000
+maxnumofeach	dc.w	99,99,99,99,99,99,3,3,3
+prizes		dc.w	5000,4000,3000,2500,2200,2000,1800,1700,1600,1500
+
+minskidspd	dc.w	1
+skidspds	dc.w	130*16,105*16,080*16
+			;rock grass snow

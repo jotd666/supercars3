@@ -1,0 +1,252 @@
+cs_ins_intro_1       = Your friendly neighbourhood insurance\nsaleswoman wants to talk to you about\nyour premium. Ulp.
+cs_ins_intro_2       = Time to talk to the lady at the insurance\noffice about reducing your premium for\nthe coming season.
+cs_ins_intro_3       = How can you get a cheap insurance quote\nwhen you're a racing driver involved in\na high risk sport. Let's see.
+
+cs_ins_q_01_question = Do you live in a rough area?
+cs_ins_q_01_bad      = Even the pit-bulls carry knives!
+cs_ins_q_01_neutral  = The milkman has a tailgunner.
+cs_ins_q_01_correct  = No, it's very respectable.
+The local cop drives a tank.
+It's not as rough as me.
+It was O.K. until I moved in.
+
+cs_ins_q_02_question = Have you taken any precautions\nagainst theft?
+cs_ins_q_02_bad      = Nobody would want to steal it.
+cs_ins_q_02_neutral  = I've booby-trapped the ignition!
+cs_ins_q_02_correct  = My car is fully alarmed.
+
+I could always steal another, anyway.
+I usually take the stereo out.
+My Rottweiler guards it for me.
+
+cs_ins_q_03_question = What do you drive when not racing?
+cs_ins_q_03_bad      = A Porsche.
+cs_ins_q_03_neutral  = A Volvo Estate.
+cs_ins_q_03_correct  = A mountain bike.
+A Range Rover.
+A burnt out heap.
+A skateboard.
+
+cs_ins_q_04_question = Is your car well maintained?
+cs_ins_q_04_bad      = The wheels keep falling off.
+cs_ins_q_04_neutral  = I maintain it myself.
+cs_ins_q_04_correct  = I have my own team of mechanics.
+It's a shed.
+I give it a kick now and then.
+It's in showroom condition.
+
+cs_ins_q_05_question = How do you prepare for a race?
+cs_ins_q_05_bad      = I drink a bottle of vodka.
+cs_ins_q_05_neutral  = I do some exercises.
+cs_ins_q_05_correct  = I carefully check my car.
+I sabotage the opposition.
+I eat a good meal.
+I check out the course.
+
+cs_ins_q_06_question = Is your sport dangerous?
+cs_ins_q_06_bad      = No, I just like wearing bandages.
+cs_ins_q_06_neutral  = Of course it is!
+cs_ins_q_06_correct  = About as dangerous as chess.
+It's like juggling chainsaws.
+No, only for the other drivers.
+Not if you're careful.
+
+cs_ins_q_07_question = Where is your car now?
+cs_ins_q_07_bad      = Under a train.
+cs_ins_q_07_neutral  = Just outside.
+cs_ins_q_07_correct  = In the garage.
+A bit over here, a bit over there.
+I can't remember.
+In a guarded compound.
+
+cs_ins_q_08_question = What kind of insurance do you require?
+cs_ins_q_08_bad      = Mafia protection.
+cs_ins_q_08_neutral  = Fully comprehensive.
+cs_ins_q_08_correct  = Third party, fire and theft.
+Racing insurance.
+Classic car insurance.
+The cheapest.
+
+cs_ins_q_09_question = Have you ever made a false claim?
+cs_ins_q_09_bad      = My cat rides a unicycle.
+cs_ins_q_09_neutral  = Frequently.
+cs_ins_q_09_correct  = No, of course not.
+I'm the king of Belgium.
+Only when I need the money.
+I'm very honest, honest!
+
+cs_ins_q_10_question = When did you last make a claim?
+cs_ins_q_10_bad      = Last time I wrote off a car (yesterday).
+cs_ins_q_10_neutral  = Yesterday.
+cs_ins_q_10_correct  = Never.
+When I 'accidentally' burnt out my old car.
+Last year.
+I haven't ever made a claim.
+
+cs_ins_q_11_question = Are you a careful driver?
+cs_ins_q_11_bad      = I'm a lunatic speed freak.
+cs_ins_q_11_neutral  = No, I'm a blundering idiot.
+cs_ins_q_11_correct  = Yes, extremely careful.
+Only when I'm sober.
+You can't race 'carefully'.
+I try my best.
+
+cs_ins_q_12_question = Have you ever had car insurance refused\nfor any reason?
+cs_ins_q_12_bad      = I can't drive properly.
+cs_ins_q_12_neutral  = I couldn't afford it.
+cs_ins_q_12_correct  = Only for having too many accidents.
+Not really.
+Never.
+
+cs_ins_q_13_question = Do you require cover for being\nblown to bits by a super missile?
+cs_ins_q_13_bad      = Yes please.
+cs_ins_q_13_neutral  = I'll just outrun them.
+cs_ins_q_13_correct  = No, I've got shields.
+Fully comprehensive.
+I'll try to be careful instead.
+No thanks, I'll just buy shields.
+
+cs_ins_q_14_question = Is your car kept in a secure garage\novernight?
+cs_ins_q_14_bad      = No, it's left unlocked in the road.
+cs_ins_q_14_neutral  = Only on pre-race nights.
+cs_ins_q_14_correct  = Safely under lock and key.
+No, I leave it outside my house.
+Sometimes.
+Yes, it's maximum security.
+
+cs_ins_q_15_question = How many miles a year do you drive?
+cs_ins_q_15_bad      = About 50,000.
+cs_ins_q_15_neutral  = Under 10,000.
+cs_ins_q_15_correct  = Only about a hundred a season.
+Hundreds of thousands.
+Quite a few.
+Not many in the car I race with.
+
+cs_ins_q_16_question = Do you have a removable car stereo?
+cs_ins_q_16_bad      = Yes, thieves remove it all the time.
+cs_ins_q_16_neutral  = No, but it's hidden.
+cs_ins_q_16_correct  = Yes, it's in my bag.
+No, but there's a lock on it.
+Of course, it's my prize possession.
+
+cs_ins_q_17_question = Do you have any endorsements on your\nlicence?
+cs_ins_q_17_bad      = One more point and I'm banned.
+cs_ins_q_17_neutral  = Three points for speeding.
+cs_ins_q_17_correct  = No, it's clean.
+Ten points for dangerous driving.
+Three points for a flat tyre.
+None.
+
+cs_ins_q_18_question = What kind of glass is your car fitted\nwith?
+cs_ins_q_18_bad      = Polythene sheets instead of windows.
+cs_ins_q_18_neutral  = Frosted glass.
+cs_ins_q_18_correct  = Super-armoured safety glass.
+95 Windows!
+Normal cheap stuff.
+Rock-Hard Arma-Glass.
+
+cs_ins_q_19_question = Have you ever been disqualified from\ndriving, and if so, what for?
+cs_ins_q_19_bad      = Drink driving three times.
+cs_ins_q_19_neutral  = Only once for dangerous driving.
+cs_ins_q_19_correct  = No, never.
+Yes, for missiling a police car.
+No, but I've come close.
+No I haven't.
+
+cs_ins_q_20_question = Do you intend to drive in other\ncountries?
+cs_ins_q_20_bad      = No, not me.
+cs_ins_q_20_neutral  = Only very occasionally.
+cs_ins_q_20_correct  = Yes, all over the world.
+No, just in my hometown.
+Sometimes.
+Of course, 21 countries in all.
+
+cs_ins_q_21_question = What year was your car manufactured?
+cs_ins_q_21_bad      = 1984.
+cs_ins_q_21_neutral  = 1950.
+cs_ins_q_21_correct  = 1995.
+1982.
+1964.
+1995.
+
+cs_ins_q_22_question = Has your car been modified or altered\nin any way?
+cs_ins_q_22_bad      = Not except for the jet engine!
+cs_ins_q_22_neutral  = I've streamlined it for speed.
+cs_ins_q_22_correct  = No, it's just perfect as it is!
+It's got 16 rocket burners.
+It goes a lot faster now.
+No, it's brand new.
+
+cs_ins_q_23_question = How much would you say your car is\nworth in its present condition?
+cs_ins_q_23_bad      = Over half a million pounds.
+cs_ins_q_23_neutral  = About 
+cs_ins_q_23_correct  = At least 
+10000.
+Hardly anything.
+About a million pounds.
+Thousands of pounds.
+
+cs_ins_q_24_question = What is your occupation?
+cs_ins_q_24_bad      = A computer programmer.
+cs_ins_q_24_neutral  = I'm a taxi driver.
+cs_ins_q_24_correct  = A Racing driver!
+I work in a bank.
+I'm a secretary.
+I race cars for a living.
+
+cs_ins_q_25_question = Will anyone else be driving the car?
+cs_ins_q_25_bad      = Yeah, I let anyone use it.
+cs_ins_q_25_neutral  = Only my test drivers.
+cs_ins_q_25_correct  = No one else is mad enough.
+Absolutely everybody.
+Maybe a few other people.
+No, just me.
+
+cs_ins_q_26_question = Do you have an airbag fitted?
+cs_ins_q_26_bad      = I'll do it tomorrow.
+cs_ins_q_26_neutral  = Oh, hundreds of them.
+cs_ins_q_26_correct  = No, I never crash.
+It's not that important.
+Front rear and side airbags.
+
+cs_ins_q_27_question = What kind of seatbelts does your\ncar have?
+cs_ins_q_27_bad      = Invisible ones.
+cs_ins_q_27_neutral  = It has an ejector seat instead.
+cs_ins_q_27_correct  = The safest.
+It doesn't.
+Dodgy old ones.
+Top of the range ones.
+
+cs_ins_q_28_question = Do you have a No claims discount?
+cs_ins_q_28_bad      = About two years worth.
+cs_ins_q_28_neutral  = Yes, a full 65 p.c.
+cs_ins_q_28_correct  = No, I claim every year.
+It's about 40 p.c.
+Yes, the maximum.
+
+cs_ins_q_29_question = Do you have a car alarm?
+cs_ins_q_29_bad      = No, nor door locks!
+cs_ins_q_29_neutral  = Yes but it doesn't work.
+cs_ins_q_29_correct  = Yes, it's burglar-proof.
+I have a fake one.
+Yes.
+
+cs_ins_q_30_question = Who was your last insurer?
+cs_ins_q_30_bad      = D.P.M.I. Insurance.
+cs_ins_q_30_neutral  = SuperCover P.L.C.
+cs_ins_q_30_correct  = I've always been with you.
+Dodgy Insurance Ltd.
+Barely's Insurance.
+Your company has always insured me.
+
+cs_ins_v_0           = You're a bad risk, I'm afraid your premium\nis 5000 pounds.
+cs_ins_v_1           = Your premium is going to be 4500 pounds.\nYou're not the most careful driver.
+cs_ins_v_2           = For your insurance, you'll have to pay\n4000 pounds for the year.
+cs_ins_v_3           = Well, we can arrange the cover you want\nIt's going to cost you 3500 pounds.
+cs_ins_v_4           = 3000 pounds is the cost of your\ninsurance this year. Goodbye.
+cs_ins_v_5           = O.K. Your premium for the coming year is\ngoing to be 2500 pounds.
+cs_ins_v_6           = Right then, I'll just tap that all into the\ncomputer and.... 2000 pounds, please.
+cs_ins_v_7           = Well, we can arrange cover for a meagre\n1500 pounds. Is that O.K. Good. Bye.
+cs_ins_v_8           = O.K. For only 1000 pounds we can cover\nyou for the whole year.
+cs_ins_v_9           = Considering your profession, a price\nof 500 pounds is a giveaway.
+cs_ins_v_10          = Congratulations, you're our 10000th\ncustomer. Your insurance is free.

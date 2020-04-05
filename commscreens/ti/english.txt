@@ -1,0 +1,186 @@
+cs_ti_intro_1 = Its been a long time since you took\nyour driving test, but the Department of\nTransport Inspector wants to talk to you.
+cs_ti_intro_2 = Being a racing driver, you need to know\nyour highway code. Time to take a test, and\nmaybe get some bonus championship points.
+cs_ti_intro_3 = See if you can gain some championship\npoints by demonstrating your knowledge\nof the rules of the road....
+
+cs_ti_q_01_question  = What does this sign mean ?
+cs_ti_q_01_bad       = I can't see it, I'm very short sighted.
+cs_ti_q_01_neutral   = Eddie Kidd in the area !
+cs_ti_q_01_correct   = No motor vehicles.
+
+cs_ti_q_02_question  = What does this sign mean ?
+cs_ti_q_02_bad       = Sign-painters on strike
+cs_ti_q_02_neutral   = Heavy snow.
+cs_ti_q_02_correct   = No vehicles.
+
+cs_ti_q_03_question  = What does this sign mean ?
+cs_ti_q_03_bad       = Narrow road.
+cs_ti_q_03_neutral   = No giraffes.
+cs_ti_q_03_correct   = Maximum height.
+
+cs_ti_q_04_question  = What does this sign mean ?
+cs_ti_q_04_bad       = Roads merge.
+cs_ti_q_04_neutral   = Newcastle Brown Zone
+cs_ti_q_04_correct   = Road narrows on both sides.
+
+cs_ti_q_05_question  = What does this sign mean ?
+cs_ti_q_05_bad       = Signpost ahead.
+cs_ti_q_05_neutral   = Cactii ahead.
+cs_ti_q_05_correct   = Offset junction.
+
+cs_ti_q_06_question  = What does this sign mean ?
+cs_ti_q_06_bad       = Downhill haggis racing.
+cs_ti_q_06_neutral   = Bumpy road.
+cs_ti_q_06_correct   = Danger - falling rocks.
+
+cs_ti_q_07_question  = What does this sign mean ?
+cs_ti_q_07_bad       = Guess what's going to happen next !
+cs_ti_q_07_neutral   = BOO !
+cs_ti_q_07_correct   = Danger !
+
+cs_ti_q_08_question  = What does this sign mean ?
+cs_ti_q_08_bad       = Thunderstorms likely.
+cs_ti_q_08_neutral   = Power station.
+cs_ti_q_08_correct   = Overhead electric cable.
+
+cs_ti_q_09_question  = What does this sign mean ?
+cs_ti_q_09_bad       = Twisty road.
+cs_ti_q_09_neutral   = Drunk drivers likely.
+cs_ti_q_09_correct   = Slippery road.
+
+cs_ti_q_10_question  = What does this sign mean ?
+cs_ti_q_10_bad       = Turn around.
+cs_ti_q_10_neutral   = Magic roundabout.
+cs_ti_q_10_correct   = Roundabout.
+
+cs_ti_q_11_question  = What does this sign mean ?
+cs_ti_q_11_bad       = Keep left.
+cs_ti_q_11_neutral   = Turn right.
+cs_ti_q_11_correct   = Turn left.
+
+cs_ti_q_12_question  = What does this sign mean ?
+cs_ti_q_12_bad       = Speed up.
+cs_ti_q_12_neutral   = Stay in lane.
+cs_ti_q_12_correct   = One way street.
+
+cs_ti_q_13_question  = What is the overall stopping distance\nat 70mph ?
+cs_ti_q_13_bad       = 96 feet
+cs_ti_q_13_neutral   = It depends on what you crash into !
+cs_ti_q_13_correct   = 96 metres
+
+cs_ti_q_14_question  = Which is the correct procedure for\nturning ?
+cs_ti_q_14_bad       = Mirror, brake, signal, manoeuvre.
+cs_ti_q_14_neutral   = Manoeuvre, brake, crash, hospital.
+cs_ti_q_14_correct   = Mirror, signal, brake, manoeuvre.
+
+cs_ti_q_15_question  = If anything falls from the vehicle on the\nmotorway, what should you do ?
+cs_ti_q_15_bad       = Forget about it.
+cs_ti_q_15_neutral   = Blow it up with a rear missile.
+cs_ti_q_15_correct   = Safely stop and remove the item.
+
+cs_ti_q_16_question  = If you are stuck behind a slow moving\nvehicle, what should you do ?
+cs_ti_q_16_bad       = Overtake immediately
+cs_ti_q_16_neutral   = Honk your horn until it lets you pass.
+cs_ti_q_16_correct   = Blow it up with front missiles.
+
+cs_ti_q_17_question  = What should you do if you are first\non the scene of an accident ?
+cs_ti_q_17_bad       = Lie in the road and pretend to be injured.
+cs_ti_q_17_neutral   = Strip damaged cars of wheels, fog lamps etc.
+cs_ti_q_17_correct   = Contact emergency services and wait.
+
+cs_ti_q_18_question  = What is the speed limit for a car in a\nbuilt up area ?
+cs_ti_q_18_bad       = Under 70mph.
+cs_ti_q_18_neutral   = Over 30mph.
+cs_ti_q_18_correct   = Under 30mph.
+
+cs_ti_q_19_question  = Give an example of when should you not\novertake another vehicle ?
+cs_ti_q_19_bad       = When the other vehicle has rear missiles !
+cs_ti_q_19_neutral   = When the other car can go faster.
+cs_ti_q_19_correct   = On a corner or a bend.
+
+cs_ti_q_20_question  = What should you do if you are reversing\nand another car approaches ?
+cs_ti_q_20_bad       = Continue, with caution.
+cs_ti_q_20_neutral   = Turn round on the spot.
+cs_ti_q_20_correct   = Stop and wait for it to pass.
+
+cs_ti_q_21_question  = A traffic warden gives you a ticket for\nbeing illegally parked. What do you do ?
+cs_ti_q_21_bad       = Scream abuse.
+cs_ti_q_21_neutral   = Smile sweetly.
+cs_ti_q_21_correct   = Fire all remaining missiles.
+
+cs_ti_q_22_question  = Which lane should you be in when reaching\na roundabout, wanting to go straight on ?
+cs_ti_q_22_bad       = Penny Lane.
+cs_ti_q_22_neutral   = The right lane.
+cs_ti_q_22_correct   = The left lane.
+
+cs_ti_q_23_question  = Why did the chicken cross the road ?
+cs_ti_q_23_bad       = Some fowl reason.
+cs_ti_q_23_neutral   = It was on a train.
+cs_ti_q_23_correct   = To get to the other side.
+
+cs_ti_q_24_question  = What should you do if you are approaching\na level crossing when a train is due ?
+cs_ti_q_24_bad       = Pray !
+cs_ti_q_24_neutral   = Jump the train.
+cs_ti_q_24_correct   = Don't worry, the train will be late !
+
+cs_ti_q_25_question  = What is the minimum stopping distance\nat 60 mph ?
+cs_ti_q_25_bad       = 220 feet.
+cs_ti_q_25_neutral   = 275 feet.
+cs_ti_q_25_correct   = 240 feet.
+
+cs_ti_q_26_question  = What should you do if your brakes fail ?
+cs_ti_q_26_bad       = Pull the handbrake as hard as possible.
+cs_ti_q_26_neutral   = Steer into something soft.
+cs_ti_q_26_correct   = Use the gears and handbrake to slow down.
+
+cs_ti_q_27_question  = Can you read the number plate on my car\noutside through the window.
+cs_ti_q_27_bad       = YMY 941 Y.
+cs_ti_q_27_neutral   = LEP 996.
+cs_ti_q_27_correct   = B 210 VDB.
+
+cs_ti_q_28_question  = What should the air pressure of most\ncars tyres be ?
+cs_ti_q_28_bad       = about 100 p.s.i.
+cs_ti_q_28_neutral   = about 300 p.s.i.
+cs_ti_q_28_correct   = about 30 p.s.i.
+
+cs_ti_q_29_question  = In a rear wheel drive car, your back\nwheels lock and skid. What should you do ?
+cs_ti_q_29_bad       = Brake harder.
+cs_ti_q_29_neutral   = Turn away from the skid.
+cs_ti_q_29_correct   = Turn into the skid.
+
+cs_ti_q_30_question  = Approaching a blind left hand curve, where\nshould your car be positioned ?
+cs_ti_q_30_bad       = As close to the kerb as possible.
+cs_ti_q_30_neutral   = On the other side of the road.
+cs_ti_q_30_correct   = Near to the centre line in the road.
+
+cs_ti_q_31_question  = What does this sign mean ?
+cs_ti_q_31_bad       = Car wash ahead
+cs_ti_q_31_neutral   = The Fall Guy performing
+cs_ti_q_31_correct   = Danger: pier or shore
+
+cs_ti_q_32_question  = What does this sign mean ?
+cs_ti_q_32_bad       = no Guy Fawkes celebration
+cs_ti_q_32_neutral   = no missile firing
+cs_ti_q_32_correct   = no explosives
+
+
+cs_ti_v_0 = Your knowledge of driving is abysmal.\nYou will be docked 5 championship points.
+
+cs_ti_v_1 = You're lucky not to be banned. I will\nrecommend you get docked 4 points.
+
+cs_ti_v_2 = You seem to have forgotten a lot since\nyour test. I'm docking you 3 points.
+
+cs_ti_v_3 = I'm disappointed, I expected better from\nsomeone like you. Your fine is 2 points.
+
+cs_ti_v_4 = Just because you are a racing driver, it\ndoesn't excuse bad knowledge. Lose 1 point.
+
+cs_ti_v_5 = Well, I'm not satisfied you know everything\nbut we'll leave it at that for now. Goodbye.
+
+cs_ti_v_6 = Encouraging answers. You have earned 1\nextra championship point.
+
+cs_ti_v_7 = Not bad. You seem to know the rules of the\nroad. I'll recommend you get 2 extra points.
+
+cs_ti_v_8 = Well done. From what I've seen, you have\nearned yourself 3 championship points.
+
+cs_ti_v_9 = Very good. Your knowledge is excellent.\nYou can have 4 extra championship points.
+
+cs_ti_v_10 = Perfect. You have answered everything\ncorrectly. You will receive 5 bonus points

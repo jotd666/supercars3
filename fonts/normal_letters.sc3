@@ -1,0 +1,10 @@
+< GAME_FONT
+< nb_rows 5 >
+< x_step 20 >
+< y_step 30 >
+< text ABCDEFGHIJKLMNOPQRST >
+< text UVWXYZ_=.?!-&+/)(><'" >
+< text abcdefghijklmnopqrst >
+< text uvwxyz0123456789:`', >
+< text çéèêëâàôûùïî%@§ >
+>

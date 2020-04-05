@@ -1,0 +1,17 @@
+< CAR_DESCRIPTION
+< name Original%20SC2%20car >
+< geometry
+< left 44 >
+< right 262 >
+< top 88 >
+< bottom 195 >
+< h_margin 4 >
+< v_margin 1 >
+< h_scale 0.175 >
+< v_scale 0.22 >
+< brightness 0.8 >
+< green_threshold 1.5 >
+>
+
+
+>

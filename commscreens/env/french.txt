@@ -1,0 +1,167 @@
+cs_env_intro_1       = Votre voiture doit être polluante,car \nvous avez été convoqué au ministère de l'environnement.
+
+cs_env_intro_2       = Il faut avoir de la répartie - vous devez persuader\nles gens s'occupant de la pollution sonore & écologique\nde ne pas vous mettre une amende.
+
+cs_env_intro_3       = La miss du ministère de l'environnement\nvous fixe haineusement. Elle a du\nentendre le bruit de votre voiture...
+
+cs_env_q_01_question = Est-ce que vous avez un pot catalytique ?
+cs_env_q_01_bad      = Non, c'est trop cher !
+cs_env_q_01_neutral  = Non, j'utilise des algues thermolactyles à la place.
+cs_env_q_01_correct  = Je m'en suis fait installer un la semaine dernière.
+                      
+cs_env_q_02_question = Est-ce que vous êtes inquiet des dégâts que votre\nvoiture peut infliger à la nature ?
+cs_env_q_02_bad      = J'en ai rien à battre !
+cs_env_q_02_neutral  = La voiture c'est pour la course. Sinon j'ai un vélo !
+cs_env_q_02_correct  = Ma voiture roule au sans plomb !
+                      
+cs_env_q_03_question = Est-ce que vous roulez à une vitesse économique ?
+cs_env_q_03_bad      = Je roule toujours à 110 km/h.
+cs_env_q_03_neutral  = Je suis un pilote de course, comment je fais ?
+cs_env_q_03_correct  = Oui, plus je roule vite plus je gagne !
+                      
+cs_env_q_04_question = Etes-vous végétarien ?
+cs_env_q_04_bad      = Je ne vois pas le rapport avec la course !
+cs_env_q_04_neutral  = Non, je suis inquiet à propos de l'effet fayot.
+cs_env_q_04_correct  = Je suis végétalien.
+                      
+cs_env_q_05_question = Etes-vous conscient de l'impact que votre\nvoiture a sur le réchauffement de la planète ?
+cs_env_q_05_bad      = C'est quoi ?
+cs_env_q_05_neutral  = Votre haleine chaude n'arrange rien !
+cs_env_q_05_correct  = Oui, j'essaye d'enrayer le prochain age de glace !
+                      
+cs_env_q_06_question = Est-ce que votre voiture est faite de\nmatières recyclées ?
+cs_env_q_06_bad      = Oui, du carton et des vieilles bouteilles !
+cs_env_q_06_neutral  = Elle est faite en pièces recyclées !
+cs_env_q_06_correct  = Ma voiture est recyclable à 98% !
+                      
+cs_env_q_07_question = Vous consommez combien aux 100 km/h ?
+cs_env_q_07_bad      = Je n'en sais rien !
+cs_env_q_07_neutral  = 15 litres d'essence, 34 litres de jus d'orange !
+cs_env_q_07_correct  = Cela dépend de la vitesse à laquelle vous allez !
+                      
+cs_env_q_08_question = Savez-vous à quoi sert un convertisseur\ncatalytique ?
+cs_env_q_08_bad      = A convertir les catalytiques dangereux en gaz.
+cs_env_q_08_neutral  = A supprimer les vapeurs de plomb des gaz d'échappement.
+cs_env_q_08_correct  = A supprimer les gaz nocifs des gaz d'échappement.
+                      
+cs_env_q_09_question = Est-ce que vous achèteriez une\nvoiture électrique ?
+cs_env_q_09_bad      = Non, ça ne fait pas assez de bruit.
+cs_env_q_09_neutral  = Si les performances sont bonnes, OK.
+cs_env_q_09_correct  = On ne gagne pas avec une voiture EDF !
+                      
+cs_env_q_10_question = Vous vous rendez compte que votre\nvoiture fait un bruit de 110 décibels ?
+cs_env_q_10_bad      = HEIN ?
+cs_env_q_10_neutral  = Ouais, ça déchire, hein ?
+cs_env_q_10_correct  = Désolé, je baisse le son.
+                      
+cs_env_q_11_question = C'était quoi ce bruit horrible venant\nde votre voiture ?
+cs_env_q_11_bad      = Du gros hard rock.
+cs_env_q_11_neutral  = De la house.
+cs_env_q_11_correct  = Kylie Minogue.
+                      
+cs_env_q_12_question = Qu'est ce que vous allez faire\npour protéger l'environnement ?
+cs_env_q_12_bad      = Avoir les cheveux longs et la raie au millieu.
+cs_env_q_12_neutral  = Utiliser moins ma voiture et plus mon vélo.
+cs_env_q_12_correct  = Rouler au sans plomb.
+                      
+cs_env_q_13_question = Des missiles dangereux pour l'environnement sont\nvendus sous le manteau. Vous savez quelque chose ?
+cs_env_q_13_bad      = Oui, j'en ai deux à l'avant de ma voiture.
+cs_env_q_13_neutral  = Non, où peut-on s'en procurer ?
+cs_env_q_13_correct  = Yé né sais lien....
+                      
+cs_env_q_14_question = Que faites vous si vous voyez un hérisson\nsur la route ?
+cs_env_q_14_bad      = Je m'arrête et je le shoote par dessus la haie.
+cs_env_q_14_neutral  = Je m'arrête et je le mets en sécurité.
+cs_env_q_14_correct  = J'aime les hérissons mais j'aime pas les paillassons.
+                      
+cs_env_q_15_question = Est-ce que vous empruntez les transports en commun ?
+cs_env_q_15_bad      = Vous avez déjà essayé de faire une course en bus ?
+cs_env_q_15_neutral  = Pas si je peux éviter.
+cs_env_q_15_correct  = Bien sûr, je conduirais la voiture de qui veut.
+                      
+cs_env_q_16_question = Avez-vous réfléchi à donner 95%\npour sauver la fôret amazonienne ?
+cs_env_q_16_bad      = Pourquoi ? C'est déductible des impôts ?
+cs_env_q_16_neutral  = Qu'est ce qu'ils vont en faire ?
+cs_env_q_16_correct  = Oui. Mais je ne gagne jamais rien !
+                      
+cs_env_q_17_question = Avez-vous entendu parler de la S.P.A. ?
+cs_env_q_17_bad      = En fait, je suis le patron de la S.P.A.
+cs_env_q_17_neutral  = Non, mais mon chien connaît !
+cs_env_q_17_correct  = Bien sûr, je lui donne des animaux tous les mois !
+                      
+cs_env_q_18_question = Ce perroquet est mort !
+cs_env_q_18_bad      = Ce n'est pas vrai !
+cs_env_q_18_neutral  = Tout à fait !
+cs_env_q_18_correct  = Et je suis bûcheron.
+                      
+cs_env_q_19_question = Savez-vous combien de fumée un missile guidé\ndégage quand il explose ?
+cs_env_q_19_bad      = On me l'avait dit, mais j'ai oublié!
+cs_env_q_19_neutral  = Teuheu, pfouit, AARGH... Non! 
+cs_env_q_19_correct  = Je n'en ai jamais vu d'assez près pour le dire.
+                      
+cs_env_q_20_question = Vous êtes pas mal comme garçon\nCa vous dit un dîner ce soir ?
+cs_env_q_20_bad      = Euh, j'ai une réunion avec Greenpeace.
+cs_env_q_20_neutral  = Oui, mais pas avec toi ma poulette !
+cs_env_q_20_correct  = Bien sûr, avec plaisir chérie.
+                      
+cs_env_q_21_question = Que savez-vous sur le monoxyde de carbone ?
+cs_env_q_21_bad      = On l'ajoute à l'essence pour aller plus vite.
+cs_env_q_21_neutral  = C'est un groupe de hard rock d'enfer !
+cs_env_q_21_correct  = C'est un gaz toxique émis par les voitures.
+                      
+cs_env_q_22_question = Voudriez-vous participer à l'association\n'Les chats contre la Bombe'
+cs_env_q_22_bad      = Voilà dix centimes. Vous avez de la monnaie ?
+cs_env_q_22_neutral  = D'accord, je leur donne la moitié de mes gains.
+cs_env_q_22_correct  = Non merci, j'aime bien les bombes.
+                      
+cs_env_q_23_question = Selon la sous-section 4 clause 3 paragraphe\n2b contre-section 5 de la loi sur le bruit....
+cs_env_q_23_bad      = Arrêtez de déblatérer, achevez moi !
+cs_env_q_23_neutral  = O.K. O.K. j'ai perdu.
+cs_env_q_23_correct  = Ah, mais la sous-clause 13 paraphrase c....
+                      
+cs_env_q_24_question = Vous ignoriez peut-être que votre voiture\nest une nuisance sonore ?
+cs_env_q_24_bad      = OK, je vais réparer l'allume-cigare !
+cs_env_q_24_neutral  = Ca doit venir de l'imredifluidulateur....
+cs_env_q_24_correct  = Oui, mais les New Kids on the Block aussi !
+                      
+cs_env_q_25_question = Qu'allez-vous faire à propos de vos\némissions de gaz ?
+cs_env_q_25_bad      = Je vais mettre une patate dans mon pot !
+cs_env_q_25_neutral  = Je mangerai moins de curry !
+cs_env_q_25_correct  = Je vais acheter un pot catalytique.
+                      
+cs_env_q_26_question = Vous êtes vous déjà demandé quel était l'impact sur\nl'environment si vous vous preniez un arbre ?
+cs_env_q_26_bad      = Et moi on s'en fout ?
+cs_env_q_26_neutral  = !??!?!??!? pour l'arbre ?
+cs_env_q_26_correct  = Pas de souci, je ne me prends que les murs.
+                      
+cs_env_q_27_question = Vous voyez notre poster 'Cats against the Bomb'.\nComment appelleriez-vous notre mascotte ?
+cs_env_q_27_bad      = Suie.
+cs_env_q_27_neutral  = Charbon.
+cs_env_q_27_correct  = Monstre.
+                      
+cs_env_q_28_question = Vous n'avez pas vu le smog ?
+cs_env_q_28_bad      = Non, avec toute cette épaisse fumée sur la route.
+cs_env_q_28_neutral  = Non, c'est un bon film ?
+cs_env_q_28_correct  = Oui, mais ma voiture a un GPS.
+                      
+cs_env_q_29_question = Le bruit de votre voiture est affreux\nVous n'avez pas un silencieux ?
+cs_env_q_29_bad      = Non, il est tombé en venant ici.
+cs_env_q_29_neutral  = Oui, il est connecté à mon missile avant.
+cs_env_q_29_correct  = Non, j'aime les gros bruits, YAAAAARRGH!
+                      
+cs_env_q_30_question = Vous vous rendez compte que le bruit de votre\nvoiture a brisé des fenêtres ?
+cs_env_q_30_bad      = D'accord, je me tiendrai à carreau.
+cs_env_q_30_neutral  = Ouah, même des double vitrage ?
+cs_env_q_30_correct  = Ca ne serait pas plutôt des éclats de mes mines ?
+                      
+cs_env_v_0           = Vous semblez ne porter aucun respect\nà l'environnement. Amende: 5000 euros.
+cs_env_v_1           = Une amende de 4500 euros va vous apprendre quelle\nsource de bruit et de pollution vous êtes vraiment.
+cs_env_v_2           = Je pense qu'une amende de 4000 euros devrait\nmettre un terme à votre destruction délibérée de la nature.
+cs_env_v_3           = J'ai décidé que la seule façon d'infléchir\nvotre pollution est une amende de 3500 euros.
+cs_env_v_4           = Une amende de 3000 euros devrait être très\nutile aux 'Chats Contre la Bombe'.
+cs_env_v_5           = Verdict: 2500 euros d'amende. A l'avenir,\nessayez d'être plus respecteux de l'environnement !
+cs_env_v_6           = Nous vous infligeons 2000 euros d'amende,\npour avoir négligé la santé et l'environnement.
+cs_env_v_7           = Une amende de 1500 euros devrait aiguiser\nvotre conscience écologique.
+cs_env_v_8           = Le ministère est mécontent de vous, aussi\nvous prenez 1000 euros d'amende.
+cs_env_v_9           = Bon, peut-être que vous ne devriez avoir qu'une amende\nsymbolique. 500 euros et on n'en parle plus.
+cs_env_v_10          = D'accord, on vous laisse tranquille, mais \nessayez vraiment de plus vous soucier de la nature.

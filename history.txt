@@ -1,0 +1,257 @@
+ Version 0.6 (26-december-2014):
+ - fixed (really): lap did not register sometimes in races 4 (medium) and 1 (hard)
+ - fixed: train proper collision (sometimes you passed through tail wagons unharmed)
+ - fixed: level 7 medium: added more resume points
+ - fixed (SEB): engine sound at race start (only worked when car had exploded once)
+ - fixed (SEB): turn in mid-air no longer possible
+ - fixed: crash on fadeout screen (did not occur back in 2007 :))
+ - modified (with help of SEB): rear/front missile speed/acceleration
+ - fixed: lap did not register sometimes in races 4 (medium) and 1 (hard)
+ - fixed: crash when a parasite directory was found in car dirs
+ - modified: adapted damages to original SC2 values
+ - modified: adapted aggressivity from SC2 game (ex: level 2 of hard course was just impossible)
+ - modified: shop item prices (more faithful to original SC2 game)
+ - modified: ram probability of destroying opponent car
+ - modified: reduced nitro duration
+ - fixed: unfair car explosions when hitting walls. Now handled properly
+ - fixed: energy bar display on low energy
+ - reported to work on MacOS X (thanks Bert Jahn for the information)
+ - modified: turning speed made slightly slower
+ - fixed: supercars 1 background images (black rectangles instead of background in corners)
+ 
+ Version 0.5 (28-november-2007):
+ - enhanced: added 1 remix circuit
+ - fixed: crash when skipping magnetic fields intro screen
+ - fixed: slowdowns when joystick is not connected
+ - fixed: memory leaks / unfinished sound threads
+ - enhanced: added optional mp3 tune support for title & menu screens
+ - enhanced: added full music credit in the readme file
+ 
+ Version 0.4 (20.05.2007)
+ - enhanced: .mp3 instead of .wav for Wagner intro music: smaller archive
+ - fixed: sounds
+ - fixed: medium level circuit 4 (could miss checkpoints due to triangular zone)
+ 
+ Version 0.3 (28.03.2007)
+ - enhanced: much better car collisions
+ - fixed: ranking problem
+ - fixed: lap validation problem for cars starting 1st of a race
+ - fixed: initial rankings were not correct, now this is a bit better
+ - fixed: lap not validated if pushed from another car
+ - fixed: resume position angle sometimes wrong
+ - fixed: crash before the demo
+ - changed: slightly reduced front missile speed
+ - fixed: missing Wagner music on MF title screen
+ 
+ Version 0.2 (27.02.2007)
+ - fixed: ranking bug that made player lose if cheatmode was off unless first
+ - fixed: rear missiles were too fast
+ - fixed: hiscore sort after each race
+ - fixed: out of memory error after 10 or 12 races
+ - fixed: language update on main options screen
+ - fixed: ECS in race description screen showed SCIII logo on the wood screen instead of black screen
+ - fixed: sometimes lap/race ended too far from finish line (when there are collisions)
+ - fixed: Supercars 1 circuits number of laps & descriptions
+ - fixed: text rating on Supercars 1 levels adapt to the bigger score
+ - fixed: now computes theorical cpu finishing time when game over because of no more health
+ - fixed: if car is killed just before last lap finish, the lap was not accounted for
+ - fixed: problem of weapon exploding in a tunnel: stuck forever
+ - fixed: lake render priority
+ - fixed: communication screens switch to "no" not working
+ - fixed: car start problem on easy circuit 5
+ - fixed: car drifts a little when landing from jump
+ - fixed: highlighted the wrong guy in the score section
+ - enhanced: sound & music options (added optional in-game music)
+ - enhanced: random enemy cars start positions & engines
+ - enhanced: smooth view centering system to avoid screen shake when there are many collisions
+ 
+ Version 0.1 (first version with nominal features)
+ - fixed: hard circuit 4 & 7 jump zones
+ - fixed: hard circuit 1 CPU routes
+ - fixed: wood screen letter remanence
+ - fixed: text position for 2-player mode dashboards
+ - fixed: constant CPU front weapon firing until no weapons left!
+ - fixed: CPU car going haywire when bumped in a gate for too long
+ - fixed: record times now work
+ - fixed: Audi TT was too big
+ - fixed: french accent font
+ - fixed: 2 player mode same comm screen for both players
+ - fixed: spurious car explosions on walls (still happens, but very rarely)
+ - fixed: clock stop when game is paused
+ - fixed: full screen mode now works
+ - fixed: music is less CPU consuming
+ - fixed: when both players were ranked worse than position 5, game did not end
+ - fixed: added check to avoid missing a lap checkpoint when killed
+ - fixed: disappearing winner car just before circuit screen fadeout
+ - fixed: random game initialisation bug - enhanced: framerate adjustment to keep sound/gfx synchronized on not-so-fast machines
+ - fixed: car/wall collision and land sounds
+ - fixed: demo chose wrong circuit set
+ - enhanced: fixed pass through bug other cars/missiles/trains (framerate/update problem)
+ - enhanced: localized circuit descriptions & locations
+ - enhanced: Harrison Ford newscreen reworked colors
+ - enhanced: optimized font display
+ - changed: damage rate was too high
+ - changed: jump behaviour
+ - changed: car bump is less "violent"
+ - changed: super missile size
+ - changed: circuit parameters for a better playability & challenge
+ - added: playing demo with random circuit
+ - added: Hi-score tables
+ - added: current player ranking after the race
+ - added: final status screen (when all circuits are complete)
+ - added: Joypad controls (code by Satoshi Konno (c) 1999)
+ - added: resume music on result screen (unless sfx only)
+ 
+ Version 0.09 (21.01.07)
+ - changed: using scale2x on circuits to avoid blurred resize effect
+ - enhanced: better car to car collision
+ - enhanced: weapons gfx
+ - fixed: 3 simultaneous weapons per car for each weapon type (missile, homer, mine, super) now allowed
+ - enhanced: configurable power sliding (minimal, normal, abusive)
+ - enhanced: CPU AI & driving
+ - fixed: damage when cars collide
+ - changed: default is now colored enemies, not gray.
+ - enhanced: some circuit definitions
+ - fixed: all Supercars 1 circuits are now playable
+ - enhanced: animated water in lakes
+ - enhanced: added "remix" circuit set (with currently only 1 new circuit)
+ - enhanced: replaced fonts by original (reworked) Supercars II fonts
+ - fixed: text position in various screens & dashboards
+ 
+ Version 0.08 (13.01.07)
+ - fixed: always restarted behind the position you crashed
+ - fixed: restarts at a correct point even if alternate route was used
+ - fixed: no more car jams & stuck together
+ - enhanced: (optional) colored ennemies instead of gray ennemies
+ - added: SC1 circuit 6 definition
+ - fixed: if car was killed just before the finish and restarted after the finish, laps were not decreased
+ - fixed: engine noise works all the time now
+ - enhanced: better engine noise (looks more like the one in Test Drive II, but ...)
+ - enhanced: missile weapons have the jet flame animation
+ - enhanced: weapons are scaled to original size
+ - enhanced: add sound when car lands from a jump (not the correct sound)
+ - fixed: missile speeds
+  
+ Version 0.07 (28.12.06)
+ - enhanced: computer car does not explode when waiting on closed gates anymore
+ - fixed: computer cars now have relevant speed
+ - fixed: nitro was infinite when selected
+ - fixed: weapon clip display
+ - added: trains
+ - fixed: better bounce against boundaries, less kills
+ - enhanced: less CPU cars jam
+ - fixed: ESC during a comm screen locked up the game
+ - enhanced: editor zone split
+ - enhanced: editor multi-route control point management
+ - enhanced: editor .sc3 multi-file update tool
+ - enhanced: editor train configuration
+ - fixed: computer car stick-on-control-point issue
+ - enhanced: lose speed while in the air
+ - enhanced: darker missiles on playfield (were too gray)
+ - enhanced: it is now forbidden to drop a mine while jumping
+ - enhanced: cars now skid/drift when bumped
+ - added: source code
+ 
+ Version 0.06 (19.12.2006)
+ - fixed: car/weapon collision
+ - fixed: lap completion bug
+ - fixed: buy/sell icon activation color in shop screen
+ - fixed: clip problem in 2 player mode, no more bugs & should be faster
+ - fixed: flickering at tunnel limits (tough one!)
+ - fixed: sometimes missiles went through cars without hitting them
+ - fixed: strange homing missile/fast computer car behaviour (hesitated)
+ - fixed: unlimited CPU car speeds. Now they cannot exceed maximum speed for too long
+ - fixed: best half of CPU cars now has differentiable speeds, the other half hasn't
+ - enhanced: computer aggressivity & number of weapons are adjustable per level (from editor)
+ - enhanced: cars wait for no other car in the area to respawn (not perfect, but works)
+ - enhanced: editor now has show/hide feature for routes, zones & points
+ - fixed: null pointer exception that could occur in a tunnel
+ - enhanced: smoother variation angle for CPU cars & homers -> smoother animation
+ - enhanced: more localized communication screens
+ - changed: ram power was too strong
+ - fixed: car start angles fixed (sometimes are diagonal)
+ - enhanced: multi-route support for homers/ennemy cars
+ - fixed: sometimes car did not reappear at all because of other dead cars (deadlock)
+
+ Version 0.05 (07.12.2006)
+ - enhanced: some title & information screens are ripped from 256 color SC International
+ - enhanced: original car explosion animation (the old one has been ripped from James Pond!!)
+ - fixed: race money was not added but just set (that was unfair)
+ - fixed: in 2 player mode, fixed partial car display on player 2 view
+ - fixed: vertical tunnels are now supported properly (SC1 circuits)
+ - added: original Supercars II car (EmuChicken did the 3D model)
+ - fixed: heap problem (using -Xmx option, maybe 100 MB is too much...)
+ - added: right arrow key goes to next demo screen without having to wait for timeout
+ - reworked: some graphics were processed using scale2x for better 2x resize
+ - fixed: power steering (speed/acceleration still to tune)
+ - fixed: full repair of computer cars at each race start
+ - fixed: no more continuous colliding sound when car is repositionning
+ - enhanced: interruptible sample play
+ - added: tyre screech sound
+ - added: fixed car colors (were too flashy)
+ - fixed: Beetle color & scale/size
+ - added: damage when car explodes
+ - enhanced: larger playfield (640x400 -> 640x480)
+ - fixed: acceptable dashboard in 1 & 2 player mode
+ - fixed: annoying sample loop bug
+ - fixed: easy level circuits 5 & 6
+ - fixed: car crashes below when missing a jump
+ - enhanced: F1 now snapshots any screen, F2 snapshtots the whole circuit during the race
+ - added: more news screens
+ - added: game over & rating screen
+ - fixed: ESC just before starting the race locked the game
+ - added: communication screens
+ - fixed: front missle start speed did not copy the one of the launching car
+ - fixed: better rank computation, still not perfect
+ - fixed: bounce for car against car
+ 
+ Version 0.04 (05.11.2006)
+ - fixed: version 0.03 did not run because of a bug that I had corrected only later, sorry!
+ - completed: Supercars 2 circuit definitions, now all are playable
+ - added: F2 for circuit view snapshot
+ - added: version number in window title
+ - fixed: music/sfx settings change effect immediately
+ - fixed: language settings change effect immediately
+ - fixed: car aims from were inherited from previous race aims
+ - fixed: circuit images are not cached anymore -> less memory usage
+ - enhanced: car specification screen now fully localized
+  
+ Version 0.03 (29.09.2006)
+ - added: enhanced options, most of which are saved on exit
+ - removed: command line options redundant with options screen (now that they are saved)
+ - added: original cheat, with a lot of enhanced & test features
+ - added: a lot of circuits (some of which are incomplete due to lack of train
+   & multiple routes)
+ - added: fire weapons with up/down
+ - added: "fire to accelerate" / "fire to brake" control selection added
+ - fixed: trade screen rear/front mounts now work
+ - added: moving gates
+ - added: slopes affect speed
+ - added: pause key (P)
+ - added: full circuit snapshot (F1) in <root dir>/snapshots
+ - added: ready,mark,set,go sequence at the beginning of each race
+ - enhanced: circuit editor, almost a professional tool now :)
+ - fixed: angle bug
+ - fixed: rear missiles
+ - fixed: car & homing missile routes: turns are not that sharp, more faithful to the original.
+ - fixed: removed shadows applied on jumping cars
+ - changed: nitro & bump sounds back to normal
+ - fixed: engine sound does not start at race information screen but now during circuit
+ - fixed: car start positions and orientations
+ - fixed: circuit finish too soon when computer cars are present
+ - fixed: explosion sound now also play when a computer car is killed by a human
+ - fixed: when killed in a tunnel, car never reappeared!
+ - added: Gremlin logo
+
+ Version 0.02 (22.08.2006)
+ - weapons are now available (only through cheat-mode), though homing missile could be better
+ - computer cars are now moving, but this is rather buggy, so they cannot win a race ATM
+ - added more options
+ - localization (not perfect yet)
+ - added intro jingle & magnetic fields zoom for a very faithful intro
+ - added bug/improvements database
+ - removed BMW car (was not working anyway)
+ - fixed path issue (when game was extracted in a path where there were '.' the game halted
+
+ Version 0.01 (30.07.2006)
+ - initial demo release

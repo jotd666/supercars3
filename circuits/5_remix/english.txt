@@ -1,0 +1,4 @@
+location_1 = Villefort
+comments_1 = Long rocky course,\nwith a lot of jumps
+location_2 = Telgart
+comments_2 = Long course, with a jump,and\nfrequent meetings with the train

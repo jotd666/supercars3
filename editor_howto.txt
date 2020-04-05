@@ -1,0 +1,115 @@
+                               HOW TO USE THE EDITOR
+                               ---------------------
+
+Supercars 3 editor provides a convenient way to create and modify circuits rather quickly. With a little
+practice, it is possible to define a circuit (provided the circuit bitmap already exists) in 20 minutes
+and test it afterwards.
+
+0) Defining a circuit set
+
+1) Selecting a circuit image
+  Activate File / New and select an image
+
+2) Defining the boundaries
+
+3) Defining the zones
+   
+4) Special zones
+  Use editor properties window to change zone type
+  
+  4.1) Hidden zones
+  Be careful that boundaries are either strictly vertical or strictly horizontal, or else some car
+  flicker could occur.
+  
+  4.2) Jump zones
+  Match them with areas where the car is in the air
+  
+  4.3) Top-priority zones
+  Those zones allow to define the zone for the little arch representing the finish line in Supercars 1
+  circuits. They are not linked to any other zone. If you define such a zone, the bitmap of this zone
+  will be in top priority. Shadows, cars, ... won't affect them. Of course, if many top-priority zones
+  overlap, the engine displays the last defined as the most prioritary, but I would avoid this hack if
+  I were you.
+  The main purpose of this zone is that small hidden zones cannot fulfil the requirement in the case of
+  finish arch in supercars 1 circuits because car display can only be 
+  - fully displayed
+  - fully hidden,
+  - one part hidden and one part displayed.
+
+  4.4) Gate zones
+  Gate zones allow to define gates. See chapter 9.3 for more information
+
+  4.5) Train start/stop zones
+  Train zones allow to define train start/stop. See chapter 9.2 for more information
+  
+  4.6) Checkpoint zones
+  Avoid "triangular" type checkpoint zones, as they could be missed if the update rate is slow
+  and then you lose a lap!!
+  
+5) Setting routes
+  Define points for the routes, and then use the "route" button. Start from just after the finish line, and
+  select all the points. End with the first selected point to make route appear
+  
+6) Setting Resume points
+  Turn some route points into resume points.
+  
+7) Defining car start points
+  There are 2 ways to do so:
+  - Activate the single car start point and tag route points as a car start point (if the car
+    start points should be somewhere where no route point is defined, add points to route first,
+    then tag them as car start point).
+  - Use the "multi car start" icon and select 2 route points. A request pops up asking how many
+    car start point you need and the editor evenly creates as many points (minus 2, the start & stop points
+    you picked) as needed if not already on the route (a threshold is used to avoid defining a new point
+    too close to an existing route point)
+
+8) Editing circuit description
+  Activate the Edit / Description menu
+  Fill in the location
+  Fill in the description (split your text in 2 or 3 lines if required).
+  Enter the number of laps required to complete the race.
+  Set train speed and delay if required
+  
+9) Optional items
+  9.1) Shadows
+  The game recognizes shadow images and applies them to the circuit & the cars for a better
+  rendering, just as in the original games.
+  The shadow image is a 2-color .png file, where white (0xFFFFFF) marks the location of the shade,
+  and the rest of the image is black.
+  Building such a file by hand would be rather long unless you master Gimp, PSP or Photoshop.
+  Since I don't, I created a simple image processing option in the File menu called
+  "Generate Shadow Image". It relies on the fact that the original game probably used EHB mode of
+  the Amiga to dim the pixels by a factor 2 (this is a hardware mode) because I doubt that the
+  CPU power was enough to handle complex alpha-channel processing. Anyway, it seems that my theory
+  was right, since all shaded zones are exactly twice as dim (RGB-wise) as their neighbours. To top
+  it all, shaded zones are only interesting where the cars are likely to be: on the road, which is grey
+  on supercars series. So the algorithm is just a kind of forest-fire fill. When it detects RGB pixels
+  where R=G=B and twice as dim as other RGB gray pixels, it marks them as shaded. In the end, a .png
+  picture is generated.
+  However, the system has its limitations. Sometimes my theory does not work and you'll have to extract
+  shades by hand from the original circuit image, which is easy since the processing algorithm also outlines
+  circuit boundaries. Another case where things go wrong is when a part of the road is falsely recognized
+  as a shade. In that case, just fill it with black.
+  I use Paint Shop Pro because it's simple.
+  Anyway if you have to edit the file, don't forget to keep colors to 2 colors or shadow system won't work.
+
+  9.2) Train
+  Tag zones as "train start" and "train end". Can be either vertical or horizontal oriented. You can
+  change train speed in circuit properties.
+
+  9.3) Gates
+   Get rid of previous gates in background picture if any using a picture editor. Check Supercars 2 circuits
+   hard-2, easy-7, medium-3.
+   Select the zone where the gates are supposed to be and tag it as "gates" in the region editor. That's it.
+   Be cautious however. There may be gates near finish lines. Since finish lines are contained in a finish
+   zone and exiting the zone completes the lap, exiting by the gate must complete the lap too, so the gate
+   must be a boundary of the finish zone, which is sometimes incompatible with the rectangular aspect of the
+   gate zone. That's why the engine selects the biggest possible rectangle in the gate zone and bases the gate
+   positions on it. You don't have to draw a rectangular gate zone. Check Supercars 2 circuit medium-3 for an
+   example.
+
+10) Tips & tricks
+- Use "check" to see if your circuit as a chance to be playable
+- When killing a zone where route points are defined whereas there is another zone beneath of above (hidden, jump),
+  when you re-create it, there is ambiguity on route points. You have to move them out and in for the editor to ask
+  you again to select the zone the point belongs to. Select the newly created zone.

@@ -1,0 +1,167 @@
+cs_env_intro_1       = Your car must be a pollution hazard,\nbecause you have been summoned to the\nEnvironmental Health Department.
+
+cs_env_intro_2       = Fast talking time - you must talk your\nway out of being fined by the people\nin charge of noise and car pollution.
+
+cs_env_intro_3       = The woman at the Department of the\nEnvironment stares at you menacingly. She\nmust have heard the noise your car makes...
+
+cs_env_q_01_question = Is your car fitted with a catalytic\nconverter ?
+cs_env_q_01_bad      = No, I can't afford one !
+cs_env_q_01_neutral  = No, I use a thermolastical weebly instead.
+cs_env_q_01_correct  = Yes, I had one fitted last week.
+                      
+cs_env_q_02_question = Are you worried about the harmful effects\nyour car has on the environment ?
+cs_env_q_02_bad      = I couldn't care less !
+cs_env_q_02_neutral  = I only race my car. I use a bike otherwise !
+cs_env_q_02_correct  = My car runs on unleaded petrol !
+                      
+cs_env_q_03_question = Do you drive at an economical speed ?
+cs_env_q_03_bad      = My speed is always a steady 56mph.
+cs_env_q_03_neutral  = I'm a racing driver, how can I ?
+cs_env_q_03_correct  = Yes, the faster I go the more I earn !
+                      
+cs_env_q_04_question = Are you a vegetarian ?
+cs_env_q_04_bad      = What's that got to do with racing ?
+cs_env_q_04_neutral  = No, I'm worried about the bean effect !
+cs_env_q_04_correct  = I'm a strict vegan !
+                      
+cs_env_q_05_question = Are you aware of the affect your car\nhas on global warming ?
+cs_env_q_05_bad      = What's that ?
+cs_env_q_05_neutral  = You spouting hot air doesn't help !
+cs_env_q_05_correct  = Yes, I'm trying to stop the next Ice Age !
+                      
+cs_env_q_06_question = Is your car made from recyclable\nmaterials ?
+cs_env_q_06_bad      = Yes, cardboard and old bottles !
+cs_env_q_06_neutral  = Its made from recycled parts !
+cs_env_q_06_correct  = My car is 98 percent recyclable !
+                      
+cs_env_q_07_question = How many miles to the gallon does\nyour car do ?
+cs_env_q_07_bad      = I don't have a clue !
+cs_env_q_07_neutral  = 45mpg on petrol, 68mpg on orange juice !
+cs_env_q_07_correct  = It depends how fast you are going !
+                      
+cs_env_q_08_question = Do you know what a catalytic converter\nis used for ?
+cs_env_q_08_bad      = Converting harmful catalytics into gas.
+cs_env_q_08_neutral  = Removing lead from the exhaust fumes.
+cs_env_q_08_correct  = Removing harmful gases from exhaust fumes.
+                      
+cs_env_q_09_question = Would you ever consider buying an\nelectric car ?
+cs_env_q_09_bad      = No, they're not noisy enough.
+cs_env_q_09_neutral  = If the performance was right, yes.
+cs_env_q_09_correct  = You can't win races in a milk float !
+                      
+cs_env_q_10_question = Do you realise your car is putting\nout 110 decibels of noise ?
+cs_env_q_10_bad      = PARDON ?
+cs_env_q_10_neutral  = Yeah, sounds wicked doesn't it !
+cs_env_q_10_correct  = I'm sorry, I'll turn down the stereo.
+                      
+cs_env_q_11_question = What was that awful noise coming from\nyour car ?
+cs_env_q_11_bad      = Heavy metal music.
+cs_env_q_11_neutral  = Acid House.
+cs_env_q_11_correct  = Kylie Minogue.
+                      
+cs_env_q_12_question = What sort of things are you doing to be\nenvironmentally safe ?
+cs_env_q_12_bad      = Growing my hair long with a middle parting.
+cs_env_q_12_neutral  = Using my car less in favour of a bike.
+cs_env_q_12_correct  = Running my car on unleaded petrol.
+                      
+cs_env_q_13_question = Environmentally harmful missiles are being\nsold illegally. Do you know anything ?
+cs_env_q_13_bad      = Yes, I've got two on the front of my car.
+cs_env_q_13_neutral  = No, where can I get some ?
+cs_env_q_13_correct  = I know nothing....
+                      
+cs_env_q_14_question = What would you do if you saw a hedgehog\non the road ?
+cs_env_q_14_bad      = Stop and drop-kick it over a hedge.
+cs_env_q_14_neutral  = Stop and move it to safety.
+cs_env_q_14_correct  = I like hedgehogs, it's roadhogs I don't like.
+                      
+cs_env_q_15_question = Do you ever use public transport ?
+cs_env_q_15_bad      = Ever tried racing in a bus.
+cs_env_q_15_neutral  = Not if I can help it.
+cs_env_q_15_correct  = Sure, I'll drive anybody's car.
+                      
+cs_env_q_16_question = Have you considered donating 95 percent\nof your winnings to the rainforests appeal?
+cs_env_q_16_bad      = Why ? Is it a good tax dodge ?
+cs_env_q_16_neutral  = What are they going to do with it ?
+cs_env_q_16_correct  = Yes. But I never win anything !
+                      
+cs_env_q_17_question = Have you ever heard of the R.S.P.C.A. ?
+cs_env_q_17_bad      = Actually, I'm head of the R.S.P.C.A.
+cs_env_q_17_neutral  = No, but my dog has !
+cs_env_q_17_correct  = Sure, I donate animals to it every month !
+                      
+cs_env_q_18_question = This parrot is dead !
+cs_env_q_18_bad      = No it isn't !
+cs_env_q_18_neutral  = Yes it is !
+cs_env_q_18_correct  = And I'm a lumberjack.
+                      
+cs_env_q_19_question = Do you know how much smoke a homing\nmissile gives off when it explodes ?
+cs_env_q_19_bad      = Well, I was told once, but I've forgotten!
+cs_env_q_19_neutral  = Cough, Splutter, AARGH... No! 
+cs_env_q_19_correct  = They never get close enough for me to see.
+                      
+cs_env_q_20_question = You're a good looking guy. How do you\nfancy dinner tonight ?
+cs_env_q_20_bad      = Errr, I've got a Greenpeace meeting.
+cs_env_q_20_neutral  = Yeah, but not with you, love !
+cs_env_q_20_correct  = Sure, I'd love to, sweets.
+                      
+cs_env_q_21_question = What do you know about carbon monoxide ?
+cs_env_q_21_bad      = You add it to fuel to improve speed.
+cs_env_q_21_neutral  = They're a very heavy metal group !
+cs_env_q_21_correct  = It's a poisonous gas given out by cars.
+                      
+cs_env_q_22_question = Would you care to contribute to Cats\nagainst the Bomb'
+cs_env_q_22_bad      = Here's ten pence. Have you any change ?
+cs_env_q_22_neutral  = Sure, I'll give you half my winnings.
+cs_env_q_22_correct  = No thanks, I like bombs.
+                      
+cs_env_q_23_question = Under Sub-section 4 clause 3 paragraph\n2b cross-section 5 of the noise act....
+cs_env_q_23_bad      = Stop waffling, hit me with it !
+cs_env_q_23_neutral  = O.K. O.K. I know when I'm beaten.
+cs_env_q_23_correct  = Ah, but sub-clause 13 paraphrase c....
+                      
+cs_env_q_24_question = Didn't you know that your car is a\nnoise pollution hazard ?
+cs_env_q_24_bad      = O.K. I'll fix my cigarette lighter !
+cs_env_q_24_neutral  = It must be the imredifluidulator....
+cs_env_q_24_correct  = Yeah, but so are New Kids on the Block !
+                      
+cs_env_q_25_question = What are you going to do about your\ngas emissions ?
+cs_env_q_25_bad      = I'll stick a potato in my exhaust !
+cs_env_q_25_neutral  = I'll eat fewer curries !
+cs_env_q_25_correct  = I'll buy a catalytic converter.
+                      
+cs_env_q_26_question = Have you ever considered the damage to\nthe environment if you crashed into a tree ?
+cs_env_q_26_bad      = What about the damage to me ?
+cs_env_q_26_neutral  = !??!?!??!? to the tree.
+cs_env_q_26_correct  = Don't worry, I only hit walls.
+                      
+cs_env_q_27_question = You see our 'Cats against the Bomb'\nposter. What should we call our mascot ?
+cs_env_q_27_bad      = Sooty.
+cs_env_q_27_neutral  = Charcoal.
+cs_env_q_27_correct  = Monster.
+                      
+cs_env_q_28_question = Haven't you seen the smog ?
+cs_env_q_28_bad      = No, there's all this thick smoke in the way.
+cs_env_q_28_neutral  = No, Is it a good film ?
+cs_env_q_28_correct  = Yes, but my car has a CAT.
+                      
+cs_env_q_29_question = The noise from your car is terrible.\nHaven't you got a silencer ?
+cs_env_q_29_bad      = No, it fell off on my way here.
+cs_env_q_29_neutral  = Yes, its fitted to my front missile.
+cs_env_q_29_correct  = No, I like loud noises.. YAAAAARRGH
+                      
+cs_env_q_30_question = Do you realise that the noise from your\ncar has been breaking windows ?
+cs_env_q_30_bad      = Oh, what a pane !
+cs_env_q_30_neutral  = Wow, any double-glazed ones ?
+cs_env_q_30_correct  = Sure its not shrapnel from my mines ?
+                      
+cs_env_v_0           = You seem to have total disrespect for\nthe environment. Fine 5000 pounds.
+cs_env_v_1           = A 4500 pound fine should show you what a\nnoise and pollution hazard you really are.
+cs_env_v_2           = I think a fine of 4000 pounds should put a\nstop to your wanton destruction of wildlife.
+cs_env_v_3           = I have decided that the only way to curb\nyour pollution is to fine you 3500 pounds.
+cs_env_v_4           = A 3000 pound fine should help 'Cats Against\nthe Bomb's appeal no end.
+cs_env_v_5           = Verdict. Fined 2500 pounds. And in future,\ntry to be more environmentally friendly !
+cs_env_v_6           = We are going to fine you 2000 pounds,\nfor neglect of health and the environment.
+cs_env_v_7           = A 1500 pound fine should sharpen your\nawareness of the environment.
+cs_env_v_8           = The department is not happy with you, so we\nare fining you 1000 pounds.
+cs_env_v_9           = Well, maybe all you need is a token fine.\n500 pounds, and we'll forget all about it.
+cs_env_v_10          = All right then, we'll let you off, but do\nremember to care more for the environment.

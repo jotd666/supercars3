@@ -1,0 +1,13 @@
+< LEVEL_INFORMATION
+ < name Hard >
+ < nb_circuits 7 >
+ < human
+  < initial_engine 2 >
+ >
+ < cpu
+  < initial_engine 1.8 >
+  < final_engine 2.6 >
+  < nb_front_weapons 12 >
+  < nb_rear_weapons 12 >
+  < aggressivity 3000 4000 5000 6000 7000 8000 9000 >
+ >

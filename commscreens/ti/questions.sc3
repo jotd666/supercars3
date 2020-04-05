@@ -1,0 +1,175 @@
+< COMMUNICATION_SCREEN
+< at_stake points >
+< minimum -5 >
+< maximum 5 >
+< nb_questions 30 >
+< allowed_neutral 5 >
+
+< extra_pictures 2 >
+< picture_template
+  < pos_x 242 >
+  < pos_y 174 >
+  < default empty_sign >
+>
+
+< picture_template
+  < pos_x 288 >
+  < pos_y 178 >
+  < default signs/unknown_sign >
+>
+
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/no_motor_vehicles >
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/no_vehicles >
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/maximum_height >
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/road_narrows >
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/offset_junction >
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/falling_rocks >
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/danger >
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/electric_cable >
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/slippery_road >
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/roundabout >
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/turn_left > 
+  >
+>
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/one_way_street > 
+  >
+>
+
+< question_list
+< first 13 >
+< last 30 >
+>
+
+
+< question
+  < nb_pictures 2 >
+  < picture
+     < index 1 >
+     < file ? >
+  >
+  < picture
+     < index 2 >
+     < file signs/danger_pier > 
+  >
+>
+
+< question_end
+>
+
+>

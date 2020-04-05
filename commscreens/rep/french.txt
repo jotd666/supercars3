@@ -1,0 +1,165 @@
+cs_rep_intro_1       = La course automobile est un milieu où on se montre,\nVous buvez un coup avec un journaliste,\navec l'espoir de toucher un gros paquet.
+cs_rep_intro_2       = C'est le moment de parler à la presse, et peut-être\nde vous faire un peu de thune au passage.\nQue l'interview commence....
+cs_rep_intro_3       = Toute publicité est bonne à prendre, comme\nils disent, mais vous pouvez gagner plus de fric\nen répondant aux questions du torchon local.
+                      
+cs_rep_q_01_question = Depuis quand êtes vous dans\nle milieu de la course ?
+cs_rep_q_01_bad      = Deux heures !
+cs_rep_q_01_neutral  = Depuis que j'ai été viré pour avoir ruiné mon taxi !
+cs_rep_q_01_correct  = J'ai commencé il y a 10 ans comme mécano de base.
+                      
+cs_rep_q_02_question = Pouvez-vous donner des détails\ncroustillants sur votre vie privée ?
+cs_rep_q_02_bad      = Ce que vous voulez contre un chèque croustillant.
+cs_rep_q_02_neutral  = Vous n'êtes pas de Paris-Trash, au moins ?
+cs_rep_q_02_correct  = Dégage !
+                      
+cs_rep_q_03_question = Que pouvez-vous me dire à propos\ndes autres pilotes ?
+cs_rep_q_03_bad      = Tout se monnaye !
+cs_rep_q_03_neutral  = On forme une grande famille.
+cs_rep_q_03_correct  = Je ne vais pas descendre mes collègues.
+                      
+cs_rep_q_04_question = Est-ce que la violence sur le circuit\nvous inquiète ?
+cs_rep_q_04_bad      = Non, je suis dur comme fer !
+cs_rep_q_04_neutral  = Pas si c'est moi qui latte !
+cs_rep_q_04_correct  = Ca fait partie du boulot.
+                      
+cs_rep_q_05_question = Quel journal lisez vous ?
+cs_rep_q_05_bad      = Je ne perds pas mon temps avec la presse !
+cs_rep_q_05_neutral  = Je ne sais pas lire, alors j'achète le votre !
+cs_rep_q_05_correct  = J'en lis plusieurs !
+                      
+cs_rep_q_06_question = Quelle musique écoutez vous\ndans votre voiture ?
+cs_rep_q_06_bad      = Fleetwood Mac.
+cs_rep_q_06_neutral  = La chevauchée des Walkyries de Wagner.
+cs_rep_q_06_correct  = De la grosse Country, bien sûr.
+                      
+cs_rep_q_07_question = Que conduisez-vous dans le civil ?
+cs_rep_q_07_bad      = Une BX millésime break.
+cs_rep_q_07_neutral  = Une Renault 5 GT Turbo.
+cs_rep_q_07_correct  = Un pick-up truck bleu.
+                      
+cs_rep_q_08_question = Quel est votre objectif de la saison ?
+cs_rep_q_08_bad      = Devenir scandaleusement riche !
+cs_rep_q_08_neutral  = Survivre à ma prochaine course!
+cs_rep_q_08_correct  = Etre champion du monde !
+                      
+cs_rep_q_09_question = Qui paye pour tous ces verres ?
+cs_rep_q_09_bad      = Votre journal, j'espère !
+cs_rep_q_09_neutral  = Mon généreux sponsor !
+cs_rep_q_09_correct  = Je les mettrai sur mon ardoise !
+                      
+cs_rep_q_10_question = Vous feriez une pub pour notre journal ?
+cs_rep_q_10_bad      = Vous plaisantez !
+cs_rep_q_10_neutral  = Si vous payez suffisament !
+cs_rep_q_10_correct  = J'en serais ravi !
+                      
+cs_rep_q_11_question = Que nous donneriez vous\nsi vous gagnez un prix ?
+cs_rep_q_11_bad      = Un vieux volant de ma voiture.
+cs_rep_q_11_neutral  = Un de mes trophées !
+cs_rep_q_11_correct  = Je pourrais emmener quelqu'un faire un tour de circuit.
+                      
+cs_rep_q_12_question = Pourrait-on vous photographier\ndans votre voiture ?
+cs_rep_q_12_bad      = Je n'ai pas le temps.
+cs_rep_q_12_neutral  = Ce sera plus cher !
+cs_rep_q_12_correct  = Non, on pourrait me reconnaître !
+                      
+cs_rep_q_13_question = Quelle votre vitesse maxi\nlors d'une course ?
+cs_rep_q_13_bad      = Je n'en ai aucune idée !
+cs_rep_q_13_neutral  = Environ 342 km/h.
+cs_rep_q_13_correct  = 372 km/h dans une Vaug Interceptor.
+                      
+cs_rep_q_14_question = Quel age aviez-vous quand\nvous avez commencé à conduire ?
+cs_rep_q_14_bad      = J'ai commencé la semaine dernière !
+cs_rep_q_14_neutral  = Ca ne fait pas si longtemps.
+cs_rep_q_14_correct  = Quand j'ai eu dix-sept ans !
+                      
+cs_rep_q_15_question = Combien vous gagnez en une saison ?
+cs_rep_q_15_bad      = Plus que vous !
+cs_rep_q_15_neutral  = Pas assez !
+cs_rep_q_15_correct  = UN MAX DE THUNE !!!
+                      
+cs_rep_q_16_question = Qui sont vos héros ?
+cs_rep_q_16_bad      = James Hunt, je lui ai tout appris.
+cs_rep_q_16_neutral  = Barry Norman, pourquoi pas ?
+cs_rep_q_16_correct  = Judge Dredd !
+                      
+cs_rep_q_17_question = Avez-vous déjà pris de la dope ?
+cs_rep_q_17_bad      = Benjamin Castaldi c'est de la grosse dope.
+cs_rep_q_17_neutral  = Je suis débile, mais pas complètement débile !
+cs_rep_q_17_correct  = Non, jamais !
+                      
+cs_rep_q_18_question = Je peux vous interroger sur votre\nvie sentimentale ?
+cs_rep_q_18_bad      = Non !
+cs_rep_q_18_neutral  = Vous payeriez combien ?
+cs_rep_q_18_correct  = Ma maman m'interdit de parler aux étrangers.
+                      
+cs_rep_q_19_question = Quel serait votre métier si vous\nn'étiez pas pilote ?
+cs_rep_q_19_bad      = Agent de la circulation !
+cs_rep_q_19_neutral  = Chauffeur de taxi !
+cs_rep_q_19_correct  = Au chômage !
+                      
+cs_rep_q_20_question = Vous pensez être payé pour\ncette interview minable ?
+cs_rep_q_20_bad      = Il vaut mieux sinon vous ne sortirez pas d'ici.
+cs_rep_q_20_neutral  = Payez les consos et ça me va.
+cs_rep_q_20_correct  = Je suis content de faire ça pour la pub.
+                      
+cs_rep_q_21_question = Quel est votre émission favorite ?
+cs_rep_q_21_bad      = Turbo.
+cs_rep_q_21_neutral  = Louis la Brocante.
+cs_rep_q_21_correct  = Le manège enchanté !
+                      
+cs_rep_q_22_question = Avez-vous quelques conseils\npour nos jeunes lecteurs ?
+cs_rep_q_22_bad      = Areuh areuh, ga ga ga !!!
+cs_rep_q_22_neutral  = Pensez avec votre age, pas avec votre pointure !
+cs_rep_q_22_correct  = Velwuqual !
+                      
+cs_rep_q_23_question = Est-ce vrai qu'il faut être fou pour\nfaire des courses de nos jours ?
+cs_rep_q_23_bad      = Non, juste sérieux et courageux.
+cs_rep_q_23_neutral  = Ca aide d'avoir une case en moins.
+cs_rep_q_23_correct  = Je suis une théière ! Un poisson ! Un porte-manteau !
+                      
+cs_rep_q_24_question = Avez-vous déjà été blessé\nlors d'une course ?
+cs_rep_q_24_bad      = J'ai plus de prothèses que Steve Austin.
+cs_rep_q_24_neutral  = Juste quelques bleus.
+cs_rep_q_24_correct  = Pas une égratignure !
+                      
+cs_rep_q_25_question = Que pouvez-vous dire du scandale qui\nrôde dans le milieu de la course ?
+cs_rep_q_25_bad      = No comment.
+cs_rep_q_25_neutral  = No comment.
+cs_rep_q_25_correct  = No comment.
+                      
+cs_rep_q_26_question = Que diriez-vous d'un autre verre ?
+cs_rep_q_26_bad      = Un panaché s'il vous plaît !
+cs_rep_q_26_neutral  = Je prendrai une citronnade, merci.
+cs_rep_q_26_correct  = Une bouteille de Valstar s'il vous plaît !
+                      
+cs_rep_q_27_question = Que pensez-vous de la presse ?
+cs_rep_q_27_bad      = Ils me harcèlent !
+cs_rep_q_27_neutral  = La publicité ne me dérange pas !
+cs_rep_q_27_correct  = C'est super que quelqu'un s'intéresse.
+                      
+cs_rep_q_28_question = Est-ce que les rumeurs d'un conflit entre\nvous et un autre pilote d'élite sont fondées ?
+cs_rep_q_28_bad      = C'est juste qu'on ne s'entend pas !
+cs_rep_q_28_neutral  = Non, c'est un tissu de mensonges.
+cs_rep_q_28_correct  = Je le fumerais à la roquette plutôt que de lui parler !
+                      
+cs_rep_q_29_question = Pouvez-vous nous parler de votre\nplus grande frayeur lors d'une course ?
+cs_rep_q_29_bad      = Non, j'avais trop peur pour regarder !
+cs_rep_q_29_neutral  = Non, rien ne me fait peur !
+cs_rep_q_29_correct  = Quelqu'un m'a fait tomber une Polo sur la tête !
+                      
+cs_rep_q_30_question = Si vous êtes champion cette année\nque ferez vous avec l'argent ?
+cs_rep_q_30_bad      = Je me murgerai la gueule à en vomir.
+cs_rep_q_30_neutral  = Je payerai la facture d'essence !
+cs_rep_q_30_correct  = Je claquerai tout dans une soirée pour la presse!
+                      
+cs_rep_v_0           = Bien. Cette interview ne vous rapportera\npas un centime. Au revoir !
+cs_rep_v_1           = OK je vois. On devrait pouvoir faire quelques lignes\nsur vous. Nous vous payons 500 euros.
+cs_rep_v_2           = Bon, alors, je crois qu'on en a assez\npour bosser. Vous serez payé 1000 euros.
+cs_rep_v_3           = Assez intéressant, mais je dois y aller.\nVous recevrez 1500 euros.
+cs_rep_v_4           = OK, j'ai pris pas mal de notes.\nIl faut que je les rédige. Voilà 2000 euros.
+cs_rep_v_5           = Voilà, je crois qu'on a fait le tour...\nVous recevrez un chèque de 2500 euros.
+cs_rep_v_6           = Très bien, merci pour l'interview. On vous\nrecontacte pour votre commission de 3000 euros.
+cs_rep_v_7           = Je suis sûr que nos lecteurs seront captivés.\nNous vous payerons 3500 euros à la parution.
+cs_rep_v_8           = Ok, je crois qu'on a fini. Notre\nchèque est déjà en route: 4000 euros.
+cs_rep_v_9           = Ca va faire un excellent article. Attendez\nvous à recevoir notre chèque de 4500 euros.
+cs_rep_v_10          = Superbe. Je crois qu'on a parlé de tout.\nJ'espère que ces 5000 euros vous serviront.
